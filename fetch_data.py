@@ -234,16 +234,7 @@ STOCK_INFO = {
         '402970.KS': {'en': 'ACE US Div Dow Jones', 'ko': 'ACE 미국배당다우존스'},
         '148020.KS': {'en': 'RISE 200', 'ko': 'RISE 200'},
         '161510.KS': {'en': 'PLUS High Dividend', 'ko': 'PLUS 고배당주'},
-        '466940.KS': {'en': 'TIGER Bank High Div Plus TOP10', 'ko': 'TIGER 은행고배당플러스TOP10'},
-        '069500.KS': {'en': 'KODEX 200', 'ko': 'KODEX 200'},
-        '122630.KS': {'en': 'KODEX Leverage', 'ko': 'KODEX 레버리지'},
-        '114800.KS': {'en': 'KODEX Inverse', 'ko': 'KODEX 인버스'},
-        '305720.KS': {'en': 'KODEX 2nd Battery', 'ko': 'KODEX 2차전지산업'},
-        '364980.KS': {'en': 'TIGER KRX 2nd Battery K-New Deal', 'ko': 'TIGER KRX2차전지K-뉴딜'},
-        '133690.KS': {'en': 'TIGER US Nasdaq 100', 'ko': 'TIGER 미국나스닥100'},
-        '305540.KS': {'en': 'TIGER US S&P500', 'ko': 'TIGER 미국S&P500'},
-        '091160.KS': {'en': 'KODEX Semiconductor', 'ko': 'KODEX 반도체'},
-        '153130.KS': {'en': 'KODEX K-TOP 50', 'ko': 'KODEX K-TOP 50'}
+        '466940.KS': {'en': 'TIGER Bank High Div Plus TOP10', 'ko': 'TIGER 은행고배당플러스TOP10'}
     }
 }
 

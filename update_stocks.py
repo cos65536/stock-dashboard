@@ -113,18 +113,7 @@ kr_etfs = {
     '402970.KS': ('ACE US Div Dow Jones', 'ACE 미국배당다우존스'),
     '148020.KS': ('RISE 200', 'RISE 200'),
     '161510.KS': ('PLUS High Dividend', 'PLUS 고배당주'),
-    '466940.KS': ('TIGER Bank High Div Plus TOP10', 'TIGER 은행고배당플러스TOP10'),
-    
-    # 대표 K-ETF 추가
-    '069500.KS': ('KODEX 200', 'KODEX 200'),
-    '122630.KS': ('KODEX Leverage', 'KODEX 레버리지'),
-    '114800.KS': ('KODEX Inverse', 'KODEX 인버스'),
-    '305720.KS': ('KODEX 2nd Battery', 'KODEX 2차전지산업'),
-    '364980.KS': ('TIGER KRX 2nd Battery K-New Deal', 'TIGER KRX2차전지K-뉴딜'),
-    '133690.KS': ('TIGER US Nasdaq 100', 'TIGER 미국나스닥100'),
-    '305540.KS': ('TIGER US S&P500', 'TIGER 미국S&P500'),
-    '091160.KS': ('KODEX Semiconductor', 'KODEX 반도체'),
-    '153130.KS': ('KODEX K-TOP 50', 'KODEX K-TOP 50')
+    '466940.KS': ('TIGER Bank High Div Plus TOP10', 'TIGER 은행고배당플러스TOP10')
 }
 
 us_str = "    'US': {\n" + ",\n".join([f"        '{k}': {{'en': '{v[0]}', 'ko': '{v[1]}'}}" for k, v in us_stocks.items()]) + "\n    },"
