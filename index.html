@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Stock Value Dashboard</title>
+    <meta name="description" content="시가총액, PER, PBR, 고점 대비 하락률(MDD), RSI 등 핵심 지표 기반의 글로벌 주식 가치 평가 대시보드">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="background-gradient"></div>
+    <div class="background-shapes">
+        <div class="shape shape-1"></div>
+        <div class="shape shape-2"></div>
+        <div class="shape shape-3"></div>
+    </div>
+
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <div class="logo">
+                    <i data-lucide="trending-up" class="logo-icon"></i>
+                    <h1>Value<span>Dash</span></h1>
+                </div>
+                <p class="subtitle" id="t-subtitle">Global Stock Valuation & Metrics</p>
+            </div>
+            
+            <div class="header-controls">
+                <div class="last-updated" id="last-updated">
+                    <i data-lucide="clock"></i> <span id="t-loading">Data loading...</span>
+                </div>
+                
+                <div class="controls-group">
+                    <button class="icon-btn" id="lang-toggle" title="Toggle Language">
+                        <i data-lucide="globe"></i>
+                        <span id="lang-text">KO</span>
+                    </button>
+                    <button class="icon-btn" id="theme-toggle" title="Toggle Theme">
+                        <i data-lucide="sun" id="theme-icon"></i>
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <!-- Advanced Filter Panel -->
+        <div class="filter-panel">
+            <div class="filter-header">
+                <i data-lucide="sliders"></i>
+                <span id="t-advanced-filters">Advanced Filters</span>
+                <span class="filter-count" id="result-count">0 stocks found</span>
+            </div>
+                <div class="filter-controls">
+                    <div class="slider-group">
+                        <div class="slider-header">
+                            <span class="slider-label">Max PER</span>
+                            <span class="slider-value" id="val-per">Any</span>
+                        </div>
+                        <input type="range" id="slider-per" min="0" max="100" value="100" step="1">
+                    </div>
+                    <div class="slider-group">
+                        <div class="slider-header">
+                            <span class="slider-label">Max PBR</span>
+                            <span class="slider-value" id="val-pbr">Any</span>
+                        </div>
+                        <input type="range" id="slider-pbr" min="0" max="15" value="15" step="0.5">
+                    </div>
+                    <div class="slider-group">
+                        <div class="slider-header">
+                            <span class="slider-label">Max MDD</span>
+                            <span class="slider-value" id="val-mdd">Any</span>
+                        </div>
+                        <input type="range" id="slider-mdd" min="-80" max="0" value="0" step="5">
+                    </div>
+                </div>
+                
+                <!-- Search & Sort Controls -->
+                <div class="search-sort-controls">
+                    <div class="search-bar">
+                        <i data-lucide="search"></i>
+                        <input type="text" id="search-input" placeholder="Search ticker or company name...">
+                    </div>
+                    <div class="sort-dropdown">
+                        <i data-lucide="arrow-down-up"></i>
+                        <select id="sort-select">
+                            <option value="cap_desc" id="t-sort-cap">Market Cap (High to Low)</option>
+                            <option value="per_asc" id="t-sort-per">PER (Low to High)</option>
+                            <option value="pbr_asc" id="t-sort-pbr">PBR (Low to High)</option>
+                            <option value="mdd_asc" id="t-sort-mdd">MDD (Largest Drop)</option>
+                        </select>
+                    </div>
+                </div>
+        </div>
+
+        <main>
+            <div id="loader" class="loader">
+                <div class="spinner"></div>
+                <p id="t-fetching">Fetching latest market data...</p>
+            </div>
+            
+            <div id="content" style="display: none;">
+                <!-- Tabs -->
+                <div class="market-tabs">
+                    <button class="tab-btn active" id="tab-us" data-tab="US"><span id="t-tab-us">US Market</span></button>
+                    <button class="tab-btn" id="tab-kr" data-tab="KR"><span id="t-tab-kr">KR Market</span></button>
+                    <button class="tab-btn" id="tab-us-etf" data-tab="US_ETF"><span id="t-tab-us-etf">US ETF</span></button>
+                    <button class="tab-btn" id="tab-kr-etf" data-tab="KR_ETF"><span id="t-tab-kr-etf">KR ETF</span></button>
+                </div>
+                
+                <div class="stock-grid" id="stock-grid"></div>
+                
+                <div id="no-results" class="no-results" style="display: none;">
+                    <i data-lucide="search-x"></i>
+                    <p id="t-no-results">No stocks match the selected filters.</p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="app.js?v=10"></script>
+</body>
+</html>
