@@ -6,13 +6,13 @@
     "market_cap": 4978144444416,
     "market_cap_usd": 4978144444416,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 342.56,
     "per": 38.15,
     "pbr": 44.41,
     "forward_eps": 10.57,
     "forward_pe": 32.4,
-    "mdd": NaN,
-    "rsi": 53.16,
+    "mdd": -5.06,
+    "rsi": 46.59,
     "country": "US",
     "financials": [
       {
@@ -99,7 +99,7 @@
       344.37,
       342.11,
       356.27,
-      349.21
+      342.56
     ]
   },
   {
@@ -109,13 +109,13 @@
     "market_cap": 3598139523072,
     "market_cap_usd": 3598139523072,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 484.52,
     "per": 25.29,
     "pbr": 7.65,
     "forward_eps": 24.2,
     "forward_pe": 20.02,
-    "mdd": NaN,
-    "rsi": 39.54,
+    "mdd": -13.18,
+    "rsi": 35.02,
     "country": "US",
     "financials": [
       {
@@ -197,7 +197,7 @@
       520.9,
       529.59,
       522.87,
-      498.3
+      484.52
     ]
   },
   {
@@ -207,13 +207,13 @@
     "market_cap": 3261475323904,
     "market_cap_usd": 3261475323904,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 265.29,
     "per": 13.85,
     "pbr": 4.95,
     "forward_eps": 15.3,
     "forward_pe": 17.34,
-    "mdd": NaN,
-    "rsi": 30.58,
+    "mdd": -34.99,
+    "rsi": 27.78,
     "country": "US",
     "financials": [
       {
@@ -305,7 +305,7 @@
       279.84,
       284.78,
       295.77,
-      272.66
+      265.29
     ]
   },
   {
@@ -315,13 +315,13 @@
     "market_cap": 3031172907008,
     "market_cap_usd": 3031172907008,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 125.53,
     "per": 13.48,
     "pbr": 11.35,
     "forward_eps": 16.61,
     "forward_pe": 7.56,
-    "mdd": NaN,
-    "rsi": 19.64,
+    "mdd": -48.42,
+    "rsi": 15.05,
     "country": "US",
     "financials": [
       {
@@ -408,7 +408,7 @@
       204.64,
       186.64,
       162.85,
-      145.98
+      125.53
     ]
   },
   {
@@ -418,13 +418,13 @@
     "market_cap": 2668898811904,
     "market_cap_usd": 2668898811904,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 246.82,
     "per": 19.95,
     "pbr": 4.35,
     "forward_eps": 10.93,
     "forward_pe": 22.59,
-    "mdd": NaN,
-    "rsi": 48.97,
+    "mdd": -14.06,
+    "rsi": 42.3,
     "country": "US",
     "financials": [
       {
@@ -511,7 +511,7 @@
       240.35,
       259.3,
       266.66,
-      257.37
+      246.82
     ]
   },
   {
@@ -521,13 +521,13 @@
     "market_cap": 1652980711424,
     "market_cap_usd": 1652980711424,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 318.71,
     "per": 20.66,
     "pbr": 61.22,
     "forward_eps": 23.39,
     "forward_pe": 13.63,
-    "mdd": NaN,
-    "rsi": 34.45,
+    "mdd": -34.62,
+    "rsi": 28.27,
     "country": "US",
     "financials": [
       {
@@ -614,7 +614,7 @@
       406.13,
       375.44,
       398.73,
-      352.09
+      318.71
     ]
   },
   {
@@ -624,13 +624,13 @@
     "market_cap": 1453140738048,
     "market_cap_usd": 1453140738048,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 304.41,
     "per": 38.88,
     "pbr": 14.58,
-    "forward_eps": 19.39,
-    "forward_pe": 15.7,
-    "mdd": NaN,
-    "rsi": 52.56,
+    "forward_eps": 19.41,
+    "forward_pe": 15.68,
+    "mdd": -38.29,
+    "rsi": 40.85,
     "country": "US",
     "financials": [
       {
@@ -717,7 +717,7 @@
       326.08,
       293.69,
       347.01,
-      346.65
+      304.41
     ]
   },
   {
@@ -727,13 +727,13 @@
     "market_cap": 1433642336256,
     "market_cap_usd": 1433642336256,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 560.84,
     "per": 19.13,
     "pbr": 5.26,
     "forward_eps": 35.68,
     "forward_pe": 15.72,
-    "mdd": NaN,
-    "rsi": 36.74,
+    "mdd": -28.08,
+    "rsi": 30.27,
     "country": "US",
     "financials": [
       {
@@ -825,7 +825,7 @@
       614.99,
       610.15,
       641.69,
-      596.22
+      560.84
     ]
   },
   {
@@ -835,13 +835,13 @@
     "market_cap": 1366942810112,
     "market_cap_usd": 1366942810112,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 345.82,
     "per": 380.02,
     "pbr": 15.31,
     "forward_eps": 2.16,
     "forward_pe": 160.16,
-    "mdd": NaN,
-    "rsi": 47.23,
+    "mdd": -30.67,
+    "rsi": 37.78,
     "country": "US",
     "financials": [
       {
@@ -933,7 +933,7 @@
       399.81,
       358.22,
       390.22,
-      374.41
+      345.82
     ]
   },
   {
@@ -943,13 +943,13 @@
     "market_cap": 1210976043008,
     "market_cap_usd": 1210976043008,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 570.0,
     "per": 15.95,
     "pbr": 0.0,
     "forward_eps": 22.82,
     "forward_pe": 24.98,
-    "mdd": NaN,
-    "rsi": 58.41,
+    "mdd": -4.51,
+    "rsi": 56.6,
     "country": "US",
     "financials": [
       {
@@ -1041,7 +1041,7 @@
       542.49,
       570.89,
       592.94,
-      572.04
+      570.0
     ]
   },
   {
@@ -1051,13 +1051,13 @@
     "market_cap": 1199931523072,
     "market_cap_usd": 1199931523072,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 1347.11,
     "per": 43.72,
     "pbr": 29.81,
     "forward_eps": 50.87,
     "forward_pe": 26.48,
-    "mdd": NaN,
-    "rsi": 50.39,
+    "mdd": -8.69,
+    "rsi": 49.69,
     "country": "US",
     "financials": [
       {
@@ -1149,23 +1149,23 @@
       1415.82,
       1352.36,
       1443.5,
-      1351.12
+      1347.11
     ]
   },
   {
     "ticker": "WMT",
     "name_en": "Walmart",
     "name_ko": "월마트",
-    "market_cap": 1018236174336,
-    "market_cap_usd": 1018236174336,
+    "market_cap": 1015122821120,
+    "market_cap_usd": 1015122821120,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 127.95,
     "per": 46.36,
     "pbr": 10.34,
     "forward_eps": 3.23,
     "forward_pe": 39.63,
-    "mdd": NaN,
-    "rsi": 59.82,
+    "mdd": -5.11,
+    "rsi": 63.99,
     "country": "US",
     "financials": [
       {
@@ -1192,6 +1192,11 @@
         "date": "2026-07",
         "revenue": 187937000000.0,
         "operating_income": 9383000000.0
+      },
+      {
+        "date": "2026-10",
+        "revenue": 0.0,
+        "operating_income": 0.0
       }
     ],
     "history_prices": [
@@ -1247,7 +1252,7 @@
       123.51,
       125.52,
       128.09,
-      126.04
+      127.95
     ]
   },
   {
@@ -1299,37 +1304,37 @@
     ],
     "history_prices": [
       92440.26,
-      97998.37,
+      97998.38,
       105701.73,
       106189.28,
       103654.0,
       114087.66,
-      125910.51,
+      125910.52,
       136198.92,
       145899.42,
-      149034.94,
-      157265.66,
+      149034.92,
+      157265.64,
       155403.94,
       177548.52,
-      186269.17,
+      186269.16,
       212137.17,
       184407.45,
       179802.17,
       195381.77,
-      176470.69,
+      176470.67,
       182825.39,
       202266.55,
-      212085.31,
-      215521.88,
+      212085.3,
+      215521.89,
       216503.75,
       263633.81,
       265597.56,
-      287198.88,
-      311254.84,
+      287198.84,
+      311254.81,
       323037.34,
-      316655.16,
-      347584.28,
-      333347.06,
+      316655.12,
+      347584.25,
+      333347.03,
       304225.91,
       280143.41,
       250654.61,
@@ -1360,13 +1365,13 @@
     "market_cap": 824646434816,
     "market_cap_usd": 824646434816,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 310.53,
     "per": 13.03,
     "pbr": 2.35,
     "forward_eps": 25.57,
     "forward_pe": 12.14,
-    "mdd": NaN,
-    "rsi": 35.85,
+    "mdd": -14.85,
+    "rsi": 30.75,
     "country": "US",
     "financials": [
       {
@@ -1453,7 +1458,7 @@
       337.04,
       334.49,
       346.19,
-      320.22
+      310.53
     ]
   },
   {
@@ -1463,13 +1468,13 @@
     "market_cap": 749809041408,
     "market_cap_usd": 749809041408,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 401.87,
     "per": 32.62,
     "pbr": 20.97,
     "forward_eps": 17.14,
     "forward_pe": 23.45,
-    "mdd": NaN,
-    "rsi": 44.14,
+    "mdd": -8.96,
+    "rsi": 43.9,
     "country": "US",
     "financials": [
       {
@@ -1561,7 +1566,7 @@
       412.83,
       421.87,
       425.76,
-      402.25
+      401.87
     ]
   },
   {
@@ -1571,13 +1576,13 @@
     "market_cap": 702393286656,
     "market_cap_usd": 702393286656,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 424.39,
     "per": 90.68,
     "pbr": 10.18,
     "forward_eps": 17.64,
     "forward_pe": 24.06,
-    "mdd": NaN,
-    "rsi": 45.16,
+    "mdd": -35.55,
+    "rsi": 38.42,
     "country": "US",
     "financials": [
       {
@@ -1659,7 +1664,7 @@
       504.8,
       449.04,
       534.06,
-      489.19
+      424.39
     ]
   },
   {
@@ -1669,13 +1674,13 @@
     "market_cap": 672642433024,
     "market_cap_usd": 672642433024,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 594.51,
     "per": 8.0,
     "pbr": 4.86,
     "forward_eps": 208.83,
     "forward_pe": 2.85,
-    "mdd": NaN,
-    "rsi": 35.86,
+    "mdd": -52.61,
+    "rsi": 29.52,
     "country": "US",
     "financials": [
       {
@@ -1757,7 +1762,7 @@
       884.74,
       690.0,
       778.31,
-      690.44
+      594.51
     ]
   },
   {
@@ -1767,13 +1772,13 @@
     "market_cap": 652634816512,
     "market_cap_usd": 652634816512,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 159.99,
     "per": 16.46,
     "pbr": 2.46,
     "forward_eps": 12.49,
     "forward_pe": 12.81,
-    "mdd": NaN,
-    "rsi": 34.99,
+    "mdd": -14.59,
+    "rsi": 37.05,
     "country": "US",
     "financials": [
       {
@@ -1860,7 +1865,7 @@
       186.08,
       164.83,
       169.52,
-      158.93
+      159.99
     ]
   },
   {
@@ -1870,13 +1875,13 @@
     "market_cap": 651105206272,
     "market_cap_usd": 651105206272,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 270.47,
     "per": 41.04,
     "pbr": 7.99,
     "forward_eps": 11.61,
     "forward_pe": 23.29,
-    "mdd": NaN,
-    "rsi": 44.62,
+    "mdd": -6.81,
+    "rsi": 48.12,
     "country": "US",
     "financials": [
       {
@@ -1968,7 +1973,7 @@
       273.2,
       276.22,
       285.75,
-      267.14
+      270.47
     ]
   },
   {
@@ -2025,19 +2030,19 @@
     ],
     "history_prices": [
       519468.69,
-      528820.75,
-      542789.56,
+      528820.69,
+      542789.62,
       569729.5,
-      545782.94,
+      545782.88,
       597667.19,
       675493.62,
-      742344.5,
+      742344.56,
       754317.88,
       765293.38,
       906977.38,
       837133.12,
       878041.94,
-      946888.44,
+      946888.38,
       1060592.62,
       923645.25,
       909650.62,
@@ -2086,13 +2091,13 @@
     "market_cap": 544999112704,
     "market_cap_usd": 544999112704,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 625.59,
     "per": 32.74,
     "pbr": 80.79,
     "forward_eps": 23.16,
     "forward_pe": 27.01,
-    "mdd": NaN,
-    "rsi": 46.32,
+    "mdd": -8.27,
+    "rsi": 45.93,
     "country": "US",
     "financials": [
       {
@@ -2179,7 +2184,7 @@
       638.01,
       652.7,
       661.19,
-      626.5
+      625.59
     ]
   },
   {
@@ -2189,13 +2194,13 @@
     "market_cap": 505891782656,
     "market_cap_usd": 505891782656,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 286.2,
     "per": 49.18,
     "pbr": -110.37,
     "forward_eps": 16.22,
     "forward_pe": 17.65,
-    "mdd": NaN,
-    "rsi": 45.81,
+    "mdd": -5.52,
+    "rsi": 49.5,
     "country": "US",
     "financials": [
       {
@@ -2287,7 +2292,7 @@
       294.89,
       291.31,
       295.03,
-      283.54
+      286.2
     ]
   },
   {
@@ -2297,13 +2302,13 @@
     "market_cap": 488395014144,
     "market_cap_usd": 488395014144,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 1102.15,
     "per": 53.09,
     "pbr": 13.65,
     "forward_eps": 25.04,
     "forward_pe": 44.01,
-    "mdd": NaN,
-    "rsi": 67.93,
+    "mdd": -1.92,
+    "rsi": 69.7,
     "country": "US",
     "financials": [
       {
@@ -2395,7 +2400,7 @@
       1012.28,
       1053.56,
       1106.21,
-      1093.83
+      1102.15
     ]
   },
   {
@@ -2405,13 +2410,13 @@
     "market_cap": 417241497600,
     "market_cap_usd": 417241497600,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 96.99,
     "per": 28.61,
     "pbr": 11.16,
     "forward_eps": 3.53,
     "forward_pe": 27.45,
-    "mdd": NaN,
-    "rsi": 54.77,
+    "mdd": -3.55,
+    "rsi": 58.04,
     "country": "US",
     "financials": [
       {
@@ -2503,7 +2508,7 @@
       94.08,
       95.67,
       99.25,
-      96.09
+      96.99
     ]
   },
   {
@@ -2513,13 +2518,13 @@
     "market_cap": 406582722560,
     "market_cap_usd": 406582722560,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 208.37,
     "per": 15.3,
     "pbr": 2.09,
     "forward_eps": 16.52,
     "forward_pe": 12.61,
-    "mdd": NaN,
-    "rsi": 38.8,
+    "mdd": -11.16,
+    "rsi": 41.69,
     "country": "US",
     "financials": [
       {
@@ -2601,7 +2606,7 @@
       233.58,
       210.86,
       218.08,
-      206.5
+      208.37
     ]
   },
   {
@@ -2611,13 +2616,13 @@
     "market_cap": 392562900992,
     "market_cap_usd": 392562900992,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 169.37,
     "per": 25.51,
     "pbr": 7.22,
     "forward_eps": 7.43,
     "forward_pe": 22.81,
-    "mdd": NaN,
-    "rsi": 59.06,
+    "mdd": -2.43,
+    "rsi": 61.53,
     "country": "US",
     "financials": [
       {
@@ -2709,7 +2714,7 @@
       161.57,
       165.4,
       169.8,
-      167.85
+      169.37
     ]
   },
   {
@@ -2719,13 +2724,13 @@
     "market_cap": 357343494144,
     "market_cap_usd": 357343494144,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 90.64,
     "per": 24.11,
     "pbr": 6.91,
     "forward_eps": 6.06,
     "forward_pe": 14.96,
-    "mdd": NaN,
-    "rsi": 37.99,
+    "mdd": -29.94,
+    "rsi": 33.44,
     "country": "US",
     "financials": [
       {
@@ -2807,7 +2812,7 @@
       104.51,
       93.85,
       95.64,
-      94.7
+      90.64
     ]
   },
   {
@@ -2817,13 +2822,13 @@
     "market_cap": 345738838016,
     "market_cap_usd": 345738838016,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 143.49,
     "per": 101.05,
     "pbr": 30.79,
     "forward_eps": 2.54,
     "forward_pe": 56.52,
-    "mdd": NaN,
-    "rsi": 31.29,
+    "mdd": -32.61,
+    "rsi": 26.38,
     "country": "US",
     "financials": [
       {
@@ -2905,7 +2910,7 @@
       184.11,
       160.38,
       167.99,
-      153.68
+      143.49
     ]
   },
   {
@@ -2915,13 +2920,13 @@
     "market_cap": 338256691200,
     "market_cap_usd": 338256691200,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 339.04,
     "per": 23.54,
-    "pbr": 18.6,
-    "forward_eps": 15.75,
-    "forward_pe": 21.53,
-    "mdd": NaN,
-    "rsi": 53.33,
+    "pbr": 26.36,
+    "forward_eps": 15.77,
+    "forward_pe": 21.49,
+    "mdd": -12.88,
+    "rsi": 55.14,
     "country": "US",
     "financials": [
       {
@@ -3008,7 +3013,7 @@
       329.2,
       343.47,
       348.69,
-      336.68
+      339.04
     ]
   },
   {
@@ -3018,13 +3023,13 @@
     "market_cap": 329652666368,
     "market_cap_usd": 329652666368,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 133.72,
     "per": 135.07,
     "pbr": 7.35,
     "forward_eps": 8.96,
     "forward_pe": 14.92,
-    "mdd": NaN,
-    "rsi": 31.94,
+    "mdd": -14.28,
+    "rsi": 33.79,
     "country": "US",
     "financials": [
       {
@@ -3106,7 +3111,7 @@
       149.52,
       146.73,
       147.76,
-      132.81
+      133.72
     ]
   },
   {
@@ -3116,13 +3121,13 @@
     "market_cap": 324585848832,
     "market_cap_usd": 324585848832,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 47.04,
     "per": 11.23,
     "pbr": 1.2,
     "forward_eps": 5.18,
     "forward_pe": 9.08,
-    "mdd": NaN,
-    "rsi": 33.64,
+    "mdd": -27.52,
+    "rsi": 27.88,
     "country": "US",
     "financials": [
       {
@@ -3214,7 +3219,7 @@
       50.01,
       49.42,
       51.02,
-      48.57
+      47.04
     ]
   },
   {
@@ -3224,13 +3229,13 @@
     "market_cap": 319946424320,
     "market_cap_usd": 319946424320,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 309.62,
     "per": 35.39,
     "pbr": 18.26,
-    "forward_eps": 9.31,
-    "forward_pe": 33.25,
-    "mdd": NaN,
-    "rsi": 49.07,
+    "forward_eps": 9.3,
+    "forward_pe": 33.29,
+    "mdd": -20.25,
+    "rsi": 43.96,
     "country": "US",
     "financials": [
       {
@@ -3322,7 +3327,7 @@
       301.8,
       323.24,
       331.81,
-      318.88
+      309.62
     ]
   },
   {
@@ -3332,13 +3337,13 @@
     "market_cap": 304513286144,
     "market_cap_usd": 304513286144,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 339.85,
     "per": 19.4,
     "pbr": 3.1,
     "forward_eps": 23.47,
     "forward_pe": 14.48,
-    "mdd": NaN,
-    "rsi": 24.23,
+    "mdd": -25.93,
+    "rsi": 29.72,
     "country": "US",
     "financials": [
       {
@@ -3420,7 +3425,7 @@
       406.97,
       394.15,
       407.46,
-      330.48
+      339.85
     ]
   },
   {
@@ -3430,13 +3435,13 @@
     "market_cap": 286932893696,
     "market_cap_usd": 286932893696,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 184.09,
     "per": 26.87,
     "pbr": -36.15,
     "forward_eps": 9.04,
     "forward_pe": 20.36,
-    "mdd": NaN,
-    "rsi": 34.8,
+    "mdd": -14.12,
+    "rsi": 32.69,
     "country": "US",
     "financials": [
       {
@@ -3523,7 +3528,7 @@
       208.79,
       197.88,
       198.96,
-      186.43
+      184.09
     ]
   },
   {
@@ -3533,13 +3538,13 @@
     "market_cap": 272553181184,
     "market_cap_usd": 272553181184,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 51.28,
     "per": null,
     "pbr": 2.37,
     "forward_eps": 1.79,
     "forward_pe": 28.64,
-    "mdd": NaN,
-    "rsi": 31.04,
+    "mdd": -63.98,
+    "rsi": 28.03,
     "country": "US",
     "financials": [
       {
@@ -3626,7 +3631,7 @@
       65.76,
       56.28,
       59.66,
-      55.72
+      51.28
     ]
   },
   {
@@ -3636,13 +3641,13 @@
     "market_cap": 256623099904,
     "market_cap_usd": 256623099904,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 190.17,
     "per": 30.92,
     "pbr": 3.71,
     "forward_eps": 8.09,
     "forward_pe": 23.5,
-    "mdd": NaN,
-    "rsi": 46.85,
+    "mdd": -15.69,
+    "rsi": 43.79,
     "country": "US",
     "financials": [
       {
@@ -3672,59 +3677,59 @@
       }
     ],
     "history_prices": [
-      167.86,
-      173.03,
+      167.23,
+      172.38,
+      168.63,
+      176.08,
+      179.38,
+      182.49,
+      184.54,
+      185.77,
+      199.0,
+      193.1,
+      198.02,
+      195.79,
+      197.17,
+      202.63,
+      200.35,
+      207.41,
+      202.23,
+      195.94,
+      187.59,
+      194.01,
+      199.3,
+      194.22,
+      172.31,
+      172.04,
+      174.12,
       169.26,
-      176.74,
-      180.06,
-      183.18,
-      185.24,
-      186.48,
-      199.75,
-      193.83,
-      198.77,
-      196.53,
-      197.91,
-      203.39,
-      201.11,
-      208.2,
-      203.0,
-      196.68,
-      188.3,
-      194.75,
-      200.06,
-      194.96,
-      172.96,
-      172.69,
-      174.78,
-      169.91,
-      176.42,
-      179.07,
-      180.39,
-      182.92,
-      184.99,
-      187.37,
-      198.59,
-      195.28,
-      192.87,
-      212.09,
-      214.51,
-      222.29,
-      222.97,
-      209.91,
-      211.71,
-      200.79,
-      197.68,
-      194.0,
-      189.4,
-      184.68,
-      185.97,
-      193.92,
-      191.01,
-      199.8,
-      189.53,
-      198.58,
-      193.44
+      175.76,
+      178.39,
+      179.71,
+      182.23,
+      184.29,
+      186.66,
+      197.84,
+      194.54,
+      192.14,
+      211.29,
+      213.7,
+      221.45,
+      222.13,
+      209.12,
+      210.91,
+      200.03,
+      196.93,
+      193.27,
+      188.69,
+      183.98,
+      185.27,
+      193.19,
+      190.29,
+      199.05,
+      188.81,
+      197.83,
+      190.17
     ]
   },
   {
@@ -3734,13 +3739,13 @@
     "market_cap": 248075190272,
     "market_cap_usd": 248075190272,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 669.54,
     "per": 35.31,
     "pbr": 4.53,
     "forward_eps": 27.78,
     "forward_pe": 24.1,
-    "mdd": NaN,
-    "rsi": 49.61,
+    "mdd": -7.97,
+    "rsi": 43.01,
     "country": "US",
     "financials": [
       {
@@ -3822,7 +3827,7 @@
       697.0,
       694.76,
       700.22,
-      688.75
+      669.54
     ]
   },
   {
@@ -3832,13 +3837,13 @@
     "market_cap": 241006919680,
     "market_cap_usd": 241006919680,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 263.75,
     "per": 34.21,
     "pbr": 12.57,
     "forward_eps": 11.63,
     "forward_pe": 22.67,
-    "mdd": NaN,
-    "rsi": 45.53,
+    "mdd": -20.25,
+    "rsi": 36.26,
     "country": "US",
     "financials": [
       {
@@ -3925,7 +3930,7 @@
       300.84,
       277.36,
       303.6,
-      285.75
+      263.75
     ]
   },
   {
@@ -3935,13 +3940,13 @@
     "market_cap": 236005490688,
     "market_cap_usd": 236005490688,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 78.62,
     "per": 11.09,
     "pbr": 1.49,
     "forward_eps": 8.0,
     "forward_pe": 9.83,
-    "mdd": NaN,
-    "rsi": 38.39,
+    "mdd": -17.77,
+    "rsi": 33.28,
     "country": "US",
     "financials": [
       {
@@ -4033,7 +4038,7 @@
       82.91,
       83.94,
       86.05,
-      80.61
+      78.62
     ]
   },
   {
@@ -4043,13 +4048,13 @@
     "market_cap": 235642683392,
     "market_cap_usd": 235642683392,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 435.64,
     "per": 25.25,
     "pbr": 16.42,
-    "forward_eps": 25.12,
+    "forward_eps": 25.13,
     "forward_pe": 17.34,
-    "mdd": NaN,
-    "rsi": 42.79,
+    "mdd": -9.47,
+    "rsi": 42.41,
     "country": "US",
     "financials": [
       {
@@ -4079,59 +4084,59 @@
       }
     ],
     "history_prices": [
-      330.77,
-      338.53,
-      323.28,
-      311.37,
-      320.82,
-      326.25,
-      321.07,
-      319.56,
-      323.78,
-      337.84,
-      335.02,
-      376.61,
-      364.29,
-      369.78,
-      383.01,
-      364.63,
-      361.35,
-      343.19,
-      344.14,
-      343.33,
-      346.36,
-      350.59,
-      339.98,
-      325.45,
-      327.3,
-      324.41,
-      337.33,
-      334.83,
-      347.55,
-      353.14,
-      335.64,
-      356.25,
-      371.98,
-      361.28,
-      364.16,
-      373.86,
-      382.92,
-      408.56,
-      412.8,
-      439.33,
-      432.42,
-      437.23,
-      377.35,
-      385.65,
-      414.61,
-      403.04,
-      414.87,
-      432.49,
-      439.26,
-      466.01,
-      460.42,
-      465.67,
-      438.82
+      328.87,
+      336.59,
+      321.42,
+      309.58,
+      318.97,
+      324.38,
+      319.23,
+      317.73,
+      321.93,
+      335.9,
+      333.1,
+      374.45,
+      362.2,
+      367.66,
+      380.81,
+      362.54,
+      359.28,
+      341.22,
+      342.17,
+      341.35,
+      344.38,
+      348.57,
+      338.03,
+      323.58,
+      325.42,
+      322.55,
+      335.39,
+      332.91,
+      345.55,
+      351.11,
+      333.71,
+      354.2,
+      369.84,
+      359.2,
+      362.07,
+      371.71,
+      380.72,
+      406.22,
+      410.43,
+      436.81,
+      429.94,
+      434.72,
+      375.18,
+      383.44,
+      412.23,
+      400.73,
+      412.49,
+      430.01,
+      436.74,
+      463.33,
+      457.78,
+      463.0,
+      435.64
     ]
   },
   {
@@ -4141,15 +4146,20 @@
     "market_cap": 233578954752,
     "market_cap_usd": 233578954752,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 510.45,
     "per": 20.03,
     "pbr": 10.87,
     "forward_eps": 32.18,
     "forward_pe": 15.86,
-    "mdd": NaN,
-    "rsi": 27.15,
+    "mdd": -52.25,
+    "rsi": 24.16,
     "country": "US",
     "financials": [
+      {
+        "date": "2025-06",
+        "revenue": 0.0,
+        "operating_income": 0.0
+      },
       {
         "date": "2025-09",
         "revenue": 17638000000.0,
@@ -4229,7 +4239,7 @@
       622.75,
       558.63,
       600.2,
-      537.37
+      510.45
     ]
   },
   {
@@ -4239,13 +4249,13 @@
     "market_cap": 232951873536,
     "market_cap_usd": 232951873536,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 56.73,
     "per": 16.4,
     "pbr": 7.95,
     "forward_eps": 3.77,
-    "forward_pe": 15.04,
-    "mdd": NaN,
-    "rsi": 30.71,
+    "forward_pe": 15.05,
+    "mdd": -48.3,
+    "rsi": 27.49,
     "country": "US",
     "financials": [
       {
@@ -4327,7 +4337,7 @@
       62.08,
       63.41,
       62.15,
-      58.46
+      56.73
     ]
   },
   {
@@ -4337,13 +4347,13 @@
     "market_cap": 230841090048,
     "market_cap_usd": 230841090048,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 502.83,
     "per": 33.39,
     "pbr": 5.86,
     "forward_eps": 19.56,
     "forward_pe": 25.7,
-    "mdd": NaN,
-    "rsi": 49.8,
+    "mdd": -7.97,
+    "rsi": 44.07,
     "country": "US",
     "financials": [
       {
@@ -4430,7 +4440,7 @@
       514.24,
       515.25,
       526.06,
-      510.21
+      502.83
     ]
   },
   {
@@ -4440,18 +4450,18 @@
     "market_cap": 228062347264,
     "market_cap_usd": 228062347264,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 790.69,
     "per": 11.37,
     "pbr": 2.15,
     "forward_eps": 74.35,
     "forward_pe": 10.63,
-    "mdd": NaN,
-    "rsi": 37.5,
+    "mdd": -31.15,
+    "rsi": 29.33,
     "country": "US",
     "financials": [
       {
         "date": "2025-06",
-        "revenue": 0.0,
+        "revenue": 14583000000.0,
         "operating_income": 0.0
       },
       {
@@ -4471,7 +4481,7 @@
       },
       {
         "date": "2026-06",
-        "revenue": 20338000000.0,
+        "revenue": 0.0,
         "operating_income": 0.0
       },
       {
@@ -4533,7 +4543,7 @@
       894.55,
       865.82,
       916.56,
-      847.53
+      790.69
     ]
   },
   {
@@ -4543,13 +4553,13 @@
     "market_cap": 212122927104,
     "market_cap_usd": 212122927104,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 224.44,
     "per": 19.15,
     "pbr": 5.97,
     "forward_eps": 13.24,
     "forward_pe": 16.95,
-    "mdd": NaN,
-    "rsi": 33.39,
+    "mdd": -31.54,
+    "rsi": 34.15,
     "country": "US",
     "financials": [
       {
@@ -4631,7 +4641,7 @@
       256.04,
       243.32,
       247.13,
-      223.88
+      224.44
     ]
   },
   {
@@ -4641,13 +4651,13 @@
     "market_cap": 201513353216,
     "market_cap_usd": 201513353216,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 117.98,
     "per": 20.96,
     "pbr": 1.83,
     "forward_eps": 8.53,
     "forward_pe": 13.83,
-    "mdd": NaN,
-    "rsi": 62.8,
+    "mdd": -4.37,
+    "rsi": 56.42,
     "country": "US",
     "financials": [
       {
@@ -4729,7 +4739,7 @@
       110.94,
       116.75,
       118.97,
-      120.25
+      117.98
     ]
   },
   {
@@ -4739,13 +4749,13 @@
     "market_cap": 192848625664,
     "market_cap_usd": 192848625664,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 273.24,
     "per": 21.62,
     "pbr": -562.22,
     "forward_eps": 13.65,
     "forward_pe": 20.01,
-    "mdd": NaN,
-    "rsi": 59.76,
+    "mdd": -18.48,
+    "rsi": 60.66,
     "country": "US",
     "financials": [
       {
@@ -4827,7 +4837,7 @@
       258.12,
       276.52,
       271.97,
-      272.35
+      273.24
     ]
   },
   {
@@ -4837,13 +4847,13 @@
     "market_cap": 192640925696,
     "market_cap_usd": 192640925696,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 46.48,
     "per": 11.86,
     "pbr": 1.82,
     "forward_eps": 5.31,
     "forward_pe": 8.76,
-    "mdd": NaN,
-    "rsi": 51.11,
+    "mdd": -8.65,
+    "rsi": 56.56,
     "country": "US",
     "financials": [
       {
@@ -4925,7 +4935,7 @@
       44.73,
       45.69,
       46.36,
-      45.74
+      46.48
     ]
   },
   {
@@ -4935,13 +4945,13 @@
     "market_cap": 191519621120,
     "market_cap_usd": 191519621120,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 140.54,
     "per": 17.68,
     "pbr": 8.6,
     "forward_eps": 8.59,
     "forward_pe": 16.35,
-    "mdd": NaN,
-    "rsi": 50.3,
+    "mdd": -15.55,
+    "rsi": 53.24,
     "country": "US",
     "financials": [
       {
@@ -5028,7 +5038,7 @@
       137.34,
       141.34,
       145.44,
-      139.0
+      140.54
     ]
   },
   {
@@ -5038,13 +5048,13 @@
     "market_cap": 183098720256,
     "market_cap_usd": 183098720256,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 110.62,
     "per": 10.78,
     "pbr": 0.96,
     "forward_eps": 13.06,
     "forward_pe": 8.47,
-    "mdd": NaN,
-    "rsi": 34.02,
+    "mdd": -24.44,
+    "rsi": 28.17,
     "country": "US",
     "financials": [
       {
@@ -5136,7 +5146,7 @@
       121.97,
       119.05,
       124.01,
-      115.28
+      110.62
     ]
   },
   {
@@ -5146,13 +5156,13 @@
     "market_cap": 178389991424,
     "market_cap_usd": 178389991424,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 103.0,
     "per": 38.43,
     "pbr": 3.5,
     "forward_eps": 5.94,
     "forward_pe": 17.35,
-    "mdd": NaN,
-    "rsi": 44.0,
+    "mdd": -18.71,
+    "rsi": 42.14,
     "country": "US",
     "financials": [
       {
@@ -5239,7 +5249,7 @@
       106.2,
       109.93,
       108.52,
-      103.87
+      103.0
     ]
   },
   {
@@ -5249,13 +5259,13 @@
     "market_cap": 175020195840,
     "market_cap_usd": 175020195840,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 83.45,
     "per": 15.04,
     "pbr": 2.85,
     "forward_eps": 4.38,
     "forward_pe": 19.07,
-    "mdd": NaN,
-    "rsi": 50.7,
+    "mdd": -14.23,
+    "rsi": 49.1,
     "country": "US",
     "financials": [
       {
@@ -5342,7 +5352,7 @@
       83.71,
       86.95,
       85.12,
-      83.79
+      83.45
     ]
   },
   {
@@ -5352,13 +5362,13 @@
     "market_cap": 170722213888,
     "market_cap_usd": 170722213888,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 287.29,
     "per": 22.41,
     "pbr": 7.75,
     "forward_eps": 14.39,
     "forward_pe": 19.96,
-    "mdd": NaN,
-    "rsi": 44.82,
+    "mdd": -8.66,
+    "rsi": 42.19,
     "country": "US",
     "financials": [
       {
@@ -5445,7 +5455,7 @@
       304.0,
       290.16,
       302.44,
-      290.63
+      287.29
     ]
   },
   {
@@ -5455,13 +5465,13 @@
     "market_cap": 160939442176,
     "market_cap_usd": 160939442176,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 136.12,
     "per": 14.34,
     "pbr": 2.44,
     "forward_eps": 11.49,
     "forward_pe": 11.84,
-    "mdd": NaN,
-    "rsi": 43.45,
+    "mdd": -11.19,
+    "rsi": 45.6,
     "country": "US",
     "financials": [
       {
@@ -5553,7 +5563,7 @@
       153.02,
       135.38,
       141.35,
-      134.99
+      136.12
     ]
   },
   {
@@ -5563,13 +5573,13 @@
     "market_cap": 160435798016,
     "market_cap_usd": 160435798016,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 149.94,
     "per": 11.81,
     "pbr": 5.29,
     "forward_eps": 12.18,
     "forward_pe": 12.31,
-    "mdd": NaN,
-    "rsi": 42.16,
+    "mdd": -41.78,
+    "rsi": 35.1,
     "country": "US",
     "financials": [
       {
@@ -5661,7 +5671,7 @@
       164.79,
       165.41,
       172.47,
-      162.01
+      149.94
     ]
   },
   {
@@ -5671,13 +5681,13 @@
     "market_cap": 159168495616,
     "market_cap_usd": 159168495616,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 123.72,
     "per": 75.9,
     "pbr": 12.48,
     "forward_eps": 2.46,
     "forward_pe": 50.29,
-    "mdd": NaN,
-    "rsi": 32.64,
+    "mdd": -31.6,
+    "rsi": 28.42,
     "country": "US",
     "financials": [
       {
@@ -5764,7 +5774,7 @@
       157.49,
       148.91,
       147.09,
-      131.97
+      123.72
     ]
   },
   {
@@ -5774,13 +5784,13 @@
     "market_cap": 156175990784,
     "market_cap_usd": 156175990784,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 27.4,
     "per": 39.14,
     "pbr": 1.75,
     "forward_eps": 2.95,
     "forward_pe": 9.28,
-    "mdd": NaN,
-    "rsi": 34.86,
+    "mdd": -11.58,
+    "rsi": 33.77,
     "country": "US",
     "financials": [
       {
@@ -5872,7 +5882,7 @@
       30.08,
       29.39,
       28.89,
-      27.54
+      27.4
     ]
   },
   {
@@ -5882,13 +5892,13 @@
     "market_cap": 155030044672,
     "market_cap_usd": 155030044672,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 220.36,
     "per": 36.48,
     "pbr": 2.89,
     "forward_eps": 9.32,
     "forward_pe": 23.64,
-    "mdd": NaN,
-    "rsi": 48.41,
+    "mdd": -8.7,
+    "rsi": 40.97,
     "country": "US",
     "financials": [
       {
@@ -5970,23 +5980,23 @@
       232.23,
       230.25,
       233.02,
-      227.56
+      220.36
     ]
   },
   {
     "ticker": "TJX",
     "name_en": "TJX Companies",
     "name_ko": "TJX",
-    "market_cap": 153578373120,
-    "market_cap_usd": 153578373120,
+    "market_cap": 154238828544,
+    "market_cap_usd": 154238828544,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 139.62,
     "per": 25.34,
     "pbr": 14.43,
-    "forward_eps": 5.74,
-    "forward_pe": 24.34,
-    "mdd": NaN,
-    "rsi": 52.59,
+    "forward_eps": 5.7,
+    "forward_pe": 24.48,
+    "mdd": -17.32,
+    "rsi": 52.89,
     "country": "US",
     "financials": [
       {
@@ -6073,7 +6083,7 @@
       139.82,
       134.82,
       134.37,
-      139.41
+      139.62
     ]
   },
   {
@@ -6083,13 +6093,13 @@
     "market_cap": 150290726912,
     "market_cap_usd": 150290726912,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 22.31,
     "per": 11.93,
     "pbr": 1.41,
     "forward_eps": 2.6,
     "forward_pe": 8.59,
-    "mdd": NaN,
-    "rsi": 44.07,
+    "mdd": -21.52,
+    "rsi": 50.81,
     "country": "US",
     "financials": [
       {
@@ -6176,7 +6186,7 @@
       21.41,
       21.63,
       22.18,
-      21.85
+      22.31
     ]
   },
   {
@@ -6186,13 +6196,13 @@
     "market_cap": 148650262528,
     "market_cap_usd": 148650262528,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 180.62,
     "per": 16.53,
     "pbr": 3.87,
     "forward_eps": 16.01,
     "forward_pe": 11.28,
-    "mdd": NaN,
-    "rsi": 21.61,
+    "mdd": -32.55,
+    "rsi": 20.73,
     "country": "US",
     "financials": [
       {
@@ -6279,7 +6289,7 @@
       229.17,
       213.65,
       217.84,
-      183.31
+      180.62
     ]
   },
   {
@@ -6289,13 +6299,13 @@
     "market_cap": 141992099840,
     "market_cap_usd": 141992099840,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 371.63,
     "per": 13.03,
     "pbr": 1.94,
     "forward_eps": 29.47,
     "forward_pe": 12.61,
-    "mdd": NaN,
-    "rsi": 56.35,
+    "mdd": -3.29,
+    "rsi": 57.71,
     "country": "US",
     "financials": [
       {
@@ -6382,7 +6392,7 @@
       364.12,
       365.02,
       375.74,
-      370.11
+      371.63
     ]
   },
   {
@@ -6392,13 +6402,13 @@
     "market_cap": 138328162304,
     "market_cap_usd": 138328162304,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 399.05,
     "per": 48.25,
     "pbr": 8.65,
     "forward_eps": 12.47,
     "forward_pe": 32.0,
-    "mdd": NaN,
-    "rsi": 37.83,
+    "mdd": -33.92,
+    "rsi": 35.29,
     "country": "US",
     "financials": [
       {
@@ -6480,7 +6490,7 @@
       432.01,
       452.8,
       443.59,
-      407.24
+      399.05
     ]
   },
   {
@@ -6490,13 +6500,13 @@
     "market_cap": 133673992192,
     "market_cap_usd": 133673992192,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 231.39,
     "per": 11.66,
     "pbr": 3.88,
     "forward_eps": 16.06,
-    "forward_pe": 14.4,
-    "mdd": NaN,
-    "rsi": 52.21,
+    "forward_pe": 14.41,
+    "mdd": -4.0,
+    "rsi": 54.05,
     "country": "US",
     "financials": [
       {
@@ -6588,7 +6598,7 @@
       231.28,
       227.77,
       235.78,
-      229.96
+      231.39
     ]
   },
   {
@@ -6598,13 +6608,13 @@
     "market_cap": 130653405184,
     "market_cap_usd": 130653405184,
     "currency": "USD",
-    "current_price": NaN,
-    "per": 15.67,
+    "current_price": 221.17,
+    "per": 16.31,
     "pbr": 4.17,
     "forward_eps": 15.91,
     "forward_pe": 13.9,
-    "mdd": NaN,
-    "rsi": 37.31,
+    "mdd": -21.83,
+    "rsi": 39.31,
     "country": "US",
     "financials": [
       {
@@ -6691,7 +6701,7 @@
       258.24,
       260.5,
       250.49,
-      218.58
+      221.17
     ]
   },
   {
@@ -6701,13 +6711,13 @@
     "market_cap": 129599275008,
     "market_cap_usd": 129599275008,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 63.47,
     "per": 37.34,
     "pbr": 4.68,
     "forward_eps": 4.41,
     "forward_pe": 14.4,
-    "mdd": NaN,
-    "rsi": 39.07,
+    "mdd": -31.59,
+    "rsi": 34.08,
     "country": "US",
     "financials": [
       {
@@ -6789,7 +6799,7 @@
       65.25,
       68.59,
       69.69,
-      65.6
+      63.47
     ]
   },
   {
@@ -6799,13 +6809,13 @@
     "market_cap": 127837044736,
     "market_cap_usd": 127837044736,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 99.94,
     "per": 24.56,
     "pbr": 2.55,
     "forward_eps": 6.41,
     "forward_pe": 15.6,
-    "mdd": NaN,
-    "rsi": 56.13,
+    "mdd": -5.89,
+    "rsi": 53.88,
     "country": "US",
     "financials": [
       {
@@ -6892,7 +6902,7 @@
       96.54,
       101.8,
       102.86,
-      100.61
+      99.94
     ]
   },
   {
@@ -6902,13 +6912,13 @@
     "market_cap": 127431344128,
     "market_cap_usd": 127431344128,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 439.57,
     "per": 26.26,
     "pbr": 6.47,
     "forward_eps": 20.17,
     "forward_pe": 21.79,
-    "mdd": NaN,
-    "rsi": 43.77,
+    "mdd": -15.29,
+    "rsi": 42.14,
     "country": "US",
     "financials": [
       {
@@ -6995,7 +7005,7 @@
       466.55,
       467.8,
       473.59,
-      442.66
+      439.57
     ]
   },
   {
@@ -7005,13 +7015,13 @@
     "market_cap": 123535015936,
     "market_cap_usd": 123535015936,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 155.89,
     "per": 16.09,
     "pbr": 18.87,
     "forward_eps": 2.18,
     "forward_pe": 71.64,
-    "mdd": NaN,
-    "rsi": 28.03,
+    "mdd": -38.71,
+    "rsi": 24.69,
     "country": "US",
     "financials": [
       {
@@ -7103,7 +7113,7 @@
       171.55,
       173.4,
       171.5,
-      160.51
+      155.89
     ]
   },
   {
@@ -7113,13 +7123,13 @@
     "market_cap": 119102865408,
     "market_cap_usd": 119102865408,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 301.71,
     "per": 26.75,
     "pbr": 23.44,
     "forward_eps": 13.52,
     "forward_pe": 22.31,
-    "mdd": NaN,
-    "rsi": 53.67,
+    "mdd": -4.56,
+    "rsi": 54.17,
     "country": "US",
     "financials": [
       {
@@ -7206,7 +7216,7 @@
       293.84,
       303.35,
       309.93,
-      301.19
+      301.71
     ]
   },
   {
@@ -7216,13 +7226,13 @@
     "market_cap": 118014214144,
     "market_cap_usd": 118014214144,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 310.0,
     "per": 33.01,
     "pbr": 5.03,
     "forward_eps": 16.29,
     "forward_pe": 19.03,
-    "mdd": NaN,
-    "rsi": 52.28,
+    "mdd": -19.69,
+    "rsi": 50.12,
     "country": "US",
     "financials": [
       {
@@ -7314,7 +7324,7 @@
       291.86,
       325.87,
       309.64,
-      313.08
+      310.0
     ]
   },
   {
@@ -7324,13 +7334,13 @@
     "market_cap": 110086144000,
     "market_cap_usd": 110086144000,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 307.56,
     "per": 25.21,
     "pbr": 4.14,
     "forward_eps": 13.25,
     "forward_pe": 23.21,
-    "mdd": NaN,
-    "rsi": 54.19,
+    "mdd": -4.3,
+    "rsi": 55.46,
     "country": "US",
     "financials": [
       {
@@ -7422,7 +7432,7 @@
       303.14,
       305.89,
       317.97,
-      306.31
+      307.56
     ]
   },
   {
@@ -7432,13 +7442,13 @@
     "market_cap": 108427624448,
     "market_cap_usd": 108427624448,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 93.13,
     "per": 21.26,
     "pbr": 2.58,
     "forward_eps": 4.94,
-    "forward_pe": 18.87,
-    "mdd": NaN,
-    "rsi": 56.73,
+    "forward_pe": 18.86,
+    "mdd": -4.63,
+    "rsi": 55.99,
     "country": "US",
     "financials": [
       {
@@ -7520,7 +7530,7 @@
       92.95,
       91.59,
       92.83,
-      93.29
+      93.13
     ]
   },
   {
@@ -7530,13 +7540,13 @@
     "market_cap": 107769749504,
     "market_cap_usd": 107769749504,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 144.91,
     "per": 15.72,
     "pbr": -10.39,
     "forward_eps": 12.23,
     "forward_pe": 11.84,
-    "mdd": NaN,
-    "rsi": 36.75,
+    "mdd": -33.9,
+    "rsi": 34.79,
     "country": "US",
     "financials": [
       {
@@ -7623,7 +7633,7 @@
       148.13,
       160.67,
       159.58,
-      147.32
+      144.91
     ]
   },
   {
@@ -7633,13 +7643,13 @@
     "market_cap": 101660999680,
     "market_cap_usd": 101660999680,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 170.36,
     "per": 31.96,
     "pbr": 10.78,
     "forward_eps": 6.36,
     "forward_pe": 26.79,
-    "mdd": NaN,
-    "rsi": 46.75,
+    "mdd": -13.9,
+    "rsi": 44.68,
     "country": "US",
     "financials": [
       {
@@ -7731,7 +7741,7 @@
       164.39,
       189.99,
       186.78,
-      172.79
+      170.36
     ]
   },
   {
@@ -7741,13 +7751,13 @@
     "market_cap": 95285256192,
     "market_cap_usd": 95285256192,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 239.63,
     "per": 31.45,
     "pbr": 9.66,
     "forward_eps": 8.94,
     "forward_pe": 26.8,
-    "mdd": NaN,
-    "rsi": 56.19,
+    "mdd": -3.14,
+    "rsi": 57.39,
     "country": "US",
     "financials": [
       {
@@ -7839,7 +7849,7 @@
       233.45,
       236.26,
       243.83,
-      238.67
+      239.63
     ]
   },
   {
@@ -7849,13 +7859,13 @@
     "market_cap": 95243403264,
     "market_cap_usd": 95243403264,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 920.69,
     "per": 20.35,
     "pbr": 2.76,
-    "forward_eps": 71.1,
-    "forward_pe": 12.95,
-    "mdd": NaN,
-    "rsi": 57.99,
+    "forward_eps": 71.66,
+    "forward_pe": 12.85,
+    "mdd": -7.07,
+    "rsi": 57.52,
     "country": "US",
     "financials": [
       {
@@ -7885,59 +7895,59 @@
       }
     ],
     "history_prices": [
-      752.99,
-      777.18,
-      715.59,
-      738.43,
-      765.0,
-      781.94,
-      773.32,
-      793.48,
-      730.21,
-      750.65,
-      738.59,
-      782.48,
-      800.07,
-      777.6,
-      779.59,
-      757.84,
-      743.79,
-      730.92,
-      735.75,
-      759.83,
-      746.88,
-      748.58,
-      749.57,
-      699.56,
-      712.99,
-      696.4,
-      638.13,
-      614.06,
-      634.71,
-      611.43,
-      609.23,
-      632.16,
-      653.51,
-      663.74,
-      675.9,
-      655.24,
-      761.74,
-      783.45,
-      802.54,
-      834.04,
-      794.19,
-      827.72,
-      781.49,
-      784.85,
-      788.04,
-      735.2,
-      746.54,
-      790.74,
-      805.02,
-      927.89,
-      904.35,
-      955.47,
-      923.34
+      752.22,
+      776.39,
+      714.86,
+      737.68,
+      764.22,
+      781.15,
+      772.53,
+      792.67,
+      729.47,
+      749.88,
+      737.84,
+      781.69,
+      799.26,
+      776.81,
+      778.8,
+      757.07,
+      743.03,
+      730.18,
+      735.0,
+      759.05,
+      746.12,
+      747.81,
+      748.81,
+      698.84,
+      712.27,
+      695.69,
+      637.49,
+      613.44,
+      634.06,
+      610.8,
+      608.61,
+      631.52,
+      652.84,
+      663.07,
+      675.21,
+      654.58,
+      760.97,
+      782.65,
+      801.73,
+      833.19,
+      793.38,
+      826.88,
+      780.69,
+      784.05,
+      787.24,
+      734.45,
+      745.78,
+      789.93,
+      804.2,
+      926.95,
+      903.43,
+      954.5,
+      920.69
     ]
   },
   {
@@ -7947,13 +7957,13 @@
     "market_cap": 95005933568,
     "market_cap_usd": 95005933568,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 170.0,
     "per": 23.16,
     "pbr": 3.17,
     "forward_eps": 8.94,
     "forward_pe": 19.01,
-    "mdd": NaN,
-    "rsi": 53.42,
+    "mdd": -6.27,
+    "rsi": 51.88,
     "country": "US",
     "financials": [
       {
@@ -8035,7 +8045,7 @@
       168.85,
       172.27,
       178.51,
-      170.88
+      170.0
     ]
   },
   {
@@ -8045,13 +8055,13 @@
     "market_cap": 90931904512,
     "market_cap_usd": 90931904512,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 87.61,
     "per": 63.03,
     "pbr": 6.94,
-    "forward_eps": 4.8,
-    "forward_pe": 18.24,
-    "mdd": NaN,
-    "rsi": 24.72,
+    "forward_eps": 4.81,
+    "forward_pe": 18.23,
+    "mdd": -49.94,
+    "rsi": 24.1,
     "country": "US",
     "financials": [
       {
@@ -8133,7 +8143,7 @@
       105.12,
       101.97,
       102.25,
-      88.87
+      87.61
     ]
   },
   {
@@ -8143,13 +8153,13 @@
     "market_cap": 89900498944,
     "market_cap_usd": 89900498944,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 254.82,
     "per": null,
     "pbr": 41.78,
     "forward_eps": 3.07,
     "forward_pe": 82.88,
-    "mdd": NaN,
-    "rsi": 35.78,
+    "mdd": -33.74,
+    "rsi": 31.89,
     "country": "US",
     "financials": [
       {
@@ -8231,7 +8241,7 @@
       306.08,
       275.88,
       291.0,
-      268.59
+      254.82
     ]
   },
   {
@@ -8241,13 +8251,13 @@
     "market_cap": 84732731392,
     "market_cap_usd": 84732731392,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 217.71,
     "per": 12.16,
     "pbr": 7.24,
     "forward_eps": 27.41,
     "forward_pe": 7.94,
-    "mdd": NaN,
-    "rsi": 32.94,
+    "mdd": -39.98,
+    "rsi": 30.89,
     "country": "US",
     "financials": [
       {
@@ -8339,7 +8349,7 @@
       250.23,
       239.3,
       243.08,
-      221.68
+      217.71
     ]
   },
   {
@@ -8349,13 +8359,13 @@
     "market_cap": 78466605056,
     "market_cap_usd": 78466605056,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 98.71,
     "per": 38.41,
     "pbr": 272.68,
     "forward_eps": 4.1,
     "forward_pe": 24.07,
-    "mdd": NaN,
-    "rsi": 53.24,
+    "mdd": -3.04,
+    "rsi": 57.93,
     "country": "US",
     "financials": [
       {
@@ -8442,7 +8452,7 @@
       95.29,
       96.56,
       99.67,
-      96.88
+      98.71
     ]
   },
   {
@@ -8452,13 +8462,13 @@
     "market_cap": 77748592640,
     "market_cap_usd": 77748592640,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 273.57,
     "per": 24.4,
     "pbr": 24.75,
     "forward_eps": 12.36,
-    "forward_pe": 22.13,
-    "mdd": NaN,
-    "rsi": 45.52,
+    "forward_pe": 22.14,
+    "mdd": -8.8,
+    "rsi": 42.1,
     "country": "US",
     "financials": [
       {
@@ -8540,7 +8550,7 @@
       278.55,
       280.95,
       287.52,
-      276.89
+      273.57
     ]
   },
   {
@@ -8550,15 +8560,20 @@
     "market_cap": 77046759424,
     "market_cap_usd": 77046759424,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 148.6,
     "per": 9.59,
     "pbr": 2.33,
     "forward_eps": 17.01,
     "forward_pe": 8.74,
-    "mdd": NaN,
-    "rsi": 44.6,
+    "mdd": -10.44,
+    "rsi": 43.37,
     "country": "US",
     "financials": [
+      {
+        "date": "2025-06",
+        "revenue": 5355000000.0,
+        "operating_income": 1679000000.0
+      },
       {
         "date": "2025-09",
         "revenue": 5732000000.0,
@@ -8576,8 +8591,8 @@
       },
       {
         "date": "2026-06",
-        "revenue": 8494000000.0,
-        "operating_income": 3449000000.0
+        "revenue": 0.0,
+        "operating_income": 0.0
       },
       {
         "date": "2026-09",
@@ -8638,7 +8653,7 @@
       165.54,
       147.13,
       158.32,
-      149.49
+      148.6
     ]
   },
   {
@@ -8648,20 +8663,15 @@
     "market_cap": 72271306752,
     "market_cap_usd": 72271306752,
     "currency": "USD",
-    "current_price": NaN,
-    "per": 16.43,
-    "pbr": 3.82,
-    "forward_eps": 26.92,
-    "forward_pe": 10.05,
-    "mdd": NaN,
-    "rsi": 38.68,
+    "current_price": 270.44,
+    "per": 15.39,
+    "pbr": 3.96,
+    "forward_eps": 26.61,
+    "forward_pe": 10.16,
+    "mdd": -59.8,
+    "rsi": 26.83,
     "country": "US",
     "financials": [
-      {
-        "date": "2025-07",
-        "revenue": 3831000000.0,
-        "operating_income": 340000000.0
-      },
       {
         "date": "2025-10",
         "revenue": 3885000000.0,
@@ -8681,6 +8691,11 @@
         "date": "2026-07",
         "revenue": 4354000000.0,
         "operating_income": 768000000.0
+      },
+      {
+        "date": "2026-10",
+        "revenue": 4354000000.0,
+        "operating_income": 879000000.0
       }
     ],
     "history_prices": [
@@ -8736,7 +8751,7 @@
       341.09,
       341.5,
       341.7,
-      310.02
+      270.44
     ]
   },
   {
@@ -8746,13 +8761,13 @@
     "market_cap": 70663192576,
     "market_cap_usd": 70663192576,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 333.07,
     "per": 18.23,
     "pbr": 7.0,
     "forward_eps": 20.21,
     "forward_pe": 16.48,
-    "mdd": NaN,
-    "rsi": 57.45,
+    "mdd": -12.46,
+    "rsi": 58.92,
     "country": "US",
     "financials": [
       {
@@ -8844,7 +8859,7 @@
       320.85,
       334.81,
       338.31,
-      331.02
+      333.07
     ]
   },
   {
@@ -8854,13 +8869,13 @@
     "market_cap": 67734994944,
     "market_cap_usd": 67734994944,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 45.89,
     "per": 22.28,
     "pbr": 2.6,
     "forward_eps": 3.08,
     "forward_pe": 14.91,
-    "mdd": NaN,
-    "rsi": 36.61,
+    "mdd": -23.7,
+    "rsi": 30.45,
     "country": "US",
     "financials": [
       {
@@ -8947,7 +8962,7 @@
       53.74,
       49.92,
       51.67,
-      47.9
+      45.89
     ]
   },
   {
@@ -8957,13 +8972,13 @@
     "market_cap": 67483115520,
     "market_cap_usd": 67483115520,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 212.64,
     "per": 10.54,
     "pbr": 3.01,
     "forward_eps": 9.88,
     "forward_pe": 21.53,
-    "mdd": NaN,
-    "rsi": 48.34,
+    "mdd": -17.35,
+    "rsi": 42.88,
     "country": "US",
     "financials": [
       {
@@ -9055,7 +9070,7 @@
       217.65,
       219.36,
       222.46,
-      217.84
+      212.64
     ]
   },
   {
@@ -9065,13 +9080,13 @@
     "market_cap": 66395774976,
     "market_cap_usd": 66395774976,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 78.71,
     "per": 17.22,
     "pbr": 1.06,
     "forward_eps": 14.71,
     "forward_pe": 5.35,
-    "mdd": NaN,
-    "rsi": 43.73,
+    "mdd": -16.0,
+    "rsi": 38.52,
     "country": "US",
     "financials": [
       {
@@ -9158,7 +9173,7 @@
       87.4,
       86.16,
       86.0,
-      81.75
+      78.71
     ]
   },
   {
@@ -9168,19 +9183,19 @@
     "market_cap": 60848885760,
     "market_cap_usd": 60848885760,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 41.98,
     "per": 17.71,
     "pbr": 2.37,
     "forward_eps": 3.13,
     "forward_pe": 13.41,
-    "mdd": NaN,
-    "rsi": 45.39,
+    "mdd": -58.81,
+    "rsi": 41.57,
     "country": "US",
     "financials": [
       {
         "date": "2025-06",
-        "revenue": 0.0,
-        "operating_income": 0.0
+        "revenue": 5061000000.0,
+        "operating_income": 943000000.0
       },
       {
         "date": "2025-09",
@@ -9199,8 +9214,8 @@
       },
       {
         "date": "2026-06",
-        "revenue": 5442000000.0,
-        "operating_income": 1246000000.0
+        "revenue": 0.0,
+        "operating_income": 0.0
       },
       {
         "date": "2026-09",
@@ -9261,7 +9276,7 @@
       41.98,
       42.75,
       44.34,
-      42.99
+      41.98
     ]
   },
   {
@@ -9271,13 +9286,13 @@
     "market_cap": 57958465536,
     "market_cap_usd": 57958465536,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 212.78,
     "per": 42.05,
     "pbr": 2.35,
     "forward_eps": 14.23,
     "forward_pe": 14.96,
-    "mdd": NaN,
-    "rsi": 62.87,
+    "mdd": -3.44,
+    "rsi": 62.99,
     "country": "US",
     "financials": [
       {
@@ -9364,7 +9379,7 @@
       197.88,
       211.88,
       218.03,
-      212.68
+      212.78
     ]
   },
   {
@@ -9374,13 +9389,13 @@
     "market_cap": 55983542272,
     "market_cap_usd": 55983542272,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 62.17,
     "per": 28.65,
     "pbr": 5.6,
     "forward_eps": 3.41,
     "forward_pe": 18.23,
-    "mdd": NaN,
-    "rsi": 26.81,
+    "mdd": -55.51,
+    "rsi": 22.79,
     "country": "US",
     "financials": [
       {
@@ -9472,7 +9487,7 @@
       84.99,
       80.91,
       77.86,
-      68.65
+      62.17
     ]
   },
   {
@@ -9635,29 +9650,29 @@
       257771.89,
       310509.16,
       297201.62,
-      284386.97,
-      281922.59,
-      294244.41,
+      284386.94,
+      281922.62,
+      294244.38,
       360782.06,
-      407112.03,
+      407112.0,
       502729.09,
-      492871.66,
-      460835.03,
-      491885.91,
-      501743.34,
+      492871.69,
+      460835.0,
+      491885.94,
+      501743.38,
       667307.56,
       547509.06,
-      511866.5,
-      511866.5,
+      511866.47,
+      511866.47,
       490084.94,
-      466323.22,
+      466323.25,
       484639.56,
-      532657.94,
-      507906.22,
+      532658.0,
+      507906.19,
       525727.5,
-      606913.31,
-      693049.44,
-      648496.25,
+      606913.25,
+      693049.38,
+      648496.19,
       718458.5,
       695603.0,
       603187.19,
@@ -9714,8 +9729,8 @@
       },
       {
         "date": "2025-09",
-        "revenue": 1660220823310.0,
-        "operating_income": 728848136510.0
+        "revenue": 1257483432530.0,
+        "operating_income": 633529065140.0
       },
       {
         "date": "2025-12",
@@ -9734,8 +9749,8 @@
       },
       {
         "date": "2026-09",
-        "revenue": 1490325390000.0,
-        "operating_income": 738527367000.0
+        "revenue": 1490325390190.0,
+        "operating_income": 640091281760.0
       }
     ],
     "history_prices": [
@@ -9909,13 +9924,13 @@
     "market_cap": 44604239872,
     "market_cap_usd": 44604239872,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 11.17,
     "per": null,
     "pbr": 1.21,
     "forward_eps": 1.87,
     "forward_pe": 5.98,
-    "mdd": NaN,
-    "rsi": 33.16,
+    "mdd": -35.73,
+    "rsi": 32.12,
     "country": "US",
     "financials": [
       {
@@ -10002,7 +10017,7 @@
       12.1,
       12.29,
       11.91,
-      11.24
+      11.17
     ]
   },
   {
@@ -10012,13 +10027,13 @@
     "market_cap": 44265783296,
     "market_cap_usd": 44265783296,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 53.29,
     "per": 10.17,
     "pbr": 2.29,
     "forward_eps": 5.9,
     "forward_pe": 9.03,
-    "mdd": NaN,
-    "rsi": 44.12,
+    "mdd": -15.91,
+    "rsi": 34.23,
     "country": "US",
     "financials": [
       {
@@ -10100,7 +10115,7 @@
       57.01,
       59.24,
       59.28,
-      56.37
+      53.29
     ]
   },
   {
@@ -10154,26 +10169,26 @@
       116787.12,
       120954.62,
       126672.83,
-      122214.56,
+      122214.57,
       121342.3,
-      120760.78,
+      120760.79,
       119500.84,
       122699.16,
-      126866.67,
-      131421.84,
+      126866.66,
+      131421.83,
       131034.17,
-      144699.73,
+      144699.72,
       162726.61,
       163598.89,
       155589.94,
       144238.72,
-      145706.55,
+      145706.56,
       151871.44,
       148935.77,
       142379.48,
       154904.95,
       158819.17,
-      154024.25,
+      154024.27,
       157057.77,
       159378.47,
       153366.05,
@@ -10217,7 +10232,7 @@
     "per": null,
     "pbr": null,
     "forward_eps": null,
-    "forward_pe": 26.93,
+    "forward_pe": 26.91,
     "mdd": -10.9,
     "rsi": 61.63,
     "country": "KR",
@@ -10321,13 +10336,13 @@
     "market_cap": 33438128128,
     "market_cap_usd": 33438128128,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 46.72,
     "per": null,
     "pbr": -46720.0,
     "forward_eps": -1.27,
     "forward_pe": -36.68,
-    "mdd": NaN,
-    "rsi": 45.61,
+    "mdd": -53.27,
+    "rsi": 46.41,
     "country": "US",
     "financials": [
       {
@@ -10419,7 +10434,7 @@
       42.99,
       49.3,
       49.91,
-      46.35
+      46.72
     ]
   },
   {
@@ -10692,40 +10707,40 @@
     ],
     "history_prices": [
       74596.51,
-      75565.3,
+      75565.29,
       77696.62,
       75274.66,
-      74887.15,
-      74402.76,
-      74208.99,
+      74887.14,
+      74402.75,
+      74209.0,
       75371.54,
-      76727.84,
-      81281.12,
-      81668.65,
-      90678.36,
+      76727.83,
+      81281.13,
+      81668.64,
+      90678.35,
       99300.55,
       99671.88,
-      94688.28,
+      94688.29,
       89704.69,
       88727.52,
-      95665.46,
-      91365.89,
+      95665.45,
+      91365.88,
       89704.69,
       96447.2,
-      97326.66,
-      97717.52,
-      98348.32,
+      97326.65,
+      97717.53,
+      98348.31,
       96477.83,
       93622.88,
-      96674.73,
+      96674.72,
       92146.17,
       105830.27,
       98052.98,
       99332.78,
-      90177.23,
+      90177.24,
       105633.38,
-      107503.86,
-      106224.06,
+      107503.87,
+      106224.05,
       102778.42,
       99868.33,
       109091.52,
@@ -10753,13 +10768,13 @@
     "market_cap": 30057416704,
     "market_cap_usd": 30057416704,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 25.39,
     "per": null,
     "pbr": 0.84,
     "forward_eps": 2.05,
     "forward_pe": 12.41,
-    "mdd": NaN,
-    "rsi": 55.02,
+    "mdd": -8.17,
+    "rsi": 59.32,
     "country": "US",
     "financials": [
       {
@@ -10851,7 +10866,7 @@
       24.34,
       24.61,
       25.11,
-      24.92
+      25.39
     ]
   },
   {
@@ -10861,13 +10876,13 @@
     "market_cap": 26997925888,
     "market_cap_usd": 26997925888,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 101.97,
     "per": null,
     "pbr": 1.94,
-    "forward_eps": 2.46,
-    "forward_pe": 41.53,
-    "mdd": NaN,
-    "rsi": 25.26,
+    "forward_eps": 2.4,
+    "forward_pe": 42.5,
+    "mdd": -64.19,
+    "rsi": 22.94,
     "country": "US",
     "financials": [
       {
@@ -10959,7 +10974,7 @@
       143.54,
       134.76,
       127.65,
-      108.87
+      101.97
     ]
   },
   {
@@ -11185,13 +11200,13 @@
     "market_cap": 23710345216,
     "market_cap_usd": 23710345216,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 81.26,
     "per": 7.54,
     "pbr": 2.1,
     "forward_eps": 6.35,
     "forward_pe": 12.8,
-    "mdd": NaN,
-    "rsi": 35.67,
+    "mdd": -29.18,
+    "rsi": 33.25,
     "country": "US",
     "financials": [
       {
@@ -11273,7 +11288,7 @@
       95.5,
       89.88,
       99.8,
-      83.82
+      81.26
     ]
   },
   {
@@ -11324,22 +11339,22 @@
       }
     ],
     "history_prices": [
-      291694.31,
+      291694.28,
       304997.91,
       357226.94,
-      372008.78,
+      372008.75,
       361168.78,
-      352792.41,
+      352792.44,
       363632.41,
       393688.75,
       424730.53,
-      450845.06,
+      450845.03,
       442468.69,
       419803.25,
       428672.34,
       436555.97,
       509479.56,
-      437541.41,
+      437541.44,
       398123.28,
       399317.41,
       397323.31,
@@ -11489,13 +11504,13 @@
     "market_cap": 19861334016,
     "market_cap_usd": 19861334016,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 44.75,
     "per": null,
     "pbr": 6.11,
     "forward_eps": 2.65,
     "forward_pe": 16.91,
-    "mdd": NaN,
-    "rsi": 51.32,
+    "mdd": -17.53,
+    "rsi": 46.5,
     "country": "US",
     "financials": [
       {
@@ -11577,7 +11592,7 @@
       37.7,
       51.49,
       52.81,
-      46.7
+      44.75
     ]
   },
   {
@@ -11591,7 +11606,7 @@
     "per": null,
     "pbr": null,
     "forward_eps": null,
-    "forward_pe": 12.19,
+    "forward_pe": 12.23,
     "mdd": -46.84,
     "rsi": 34.2,
     "country": "KR",
@@ -11700,19 +11715,14 @@
     "country": "KR",
     "financials": [
       {
-        "date": "2025-03",
-        "revenue": 0.0,
-        "operating_income": 0.0
-      },
-      {
         "date": "2025-06",
         "revenue": 0.0,
         "operating_income": 0.0
       },
       {
         "date": "2025-09",
-        "revenue": 31041366000000.0,
-        "operating_income": 827400000000.0
+        "revenue": 29848569000000.0,
+        "operating_income": 701866000000.0
       },
       {
         "date": "2025-12",
@@ -11732,7 +11742,7 @@
       {
         "date": "2026-09",
         "revenue": 41318607000000.0,
-        "operating_income": 6878768000000.0
+        "operating_income": 4685977000000.0
       }
     ],
     "history_prices": [
@@ -11840,7 +11850,7 @@
       {
         "date": "2026-09",
         "revenue": 23824080000000.0,
-        "operating_income": 5815902000000.0
+        "operating_income": 781858000000.0
       }
     ],
     "history_prices": [
@@ -11910,7 +11920,7 @@
     "per": null,
     "pbr": null,
     "forward_eps": null,
-    "forward_pe": 6.59,
+    "forward_pe": 6.58,
     "mdd": -20.63,
     "rsi": 49.91,
     "country": "KR",
@@ -11956,23 +11966,23 @@
       26951.55,
       26230.92,
       26807.42,
-      28392.81,
+      28392.8,
       29065.39,
       31179.24,
       37424.7,
       39202.25,
       35277.68,
-      32386.87,
+      32386.88,
       31553.93,
       33219.82,
       32925.84,
       31308.94,
       33464.8,
-      34983.7,
+      34983.71,
       34346.74,
       32680.86,
       32405.62,
-      30827.27,
+      30827.26,
       31123.21,
       29298.23,
       30777.94,
@@ -12256,32 +12266,32 @@
       }
     ],
     "history_prices": [
-      302776.94,
-      304316.84,
-      305791.75,
-      314149.41,
+      302776.97,
+      304316.88,
+      305791.72,
+      314149.38,
       297434.09,
       302842.0,
       292517.84,
       298908.97,
-      325948.44,
+      325948.47,
       361837.19,
       341680.5,
       353479.53,
       369211.59,
-      387401.75,
+      387401.78,
       408596.47,
-      349730.91,
+      349730.88,
       333406.81,
       339837.5,
-      338848.19,
+      338848.16,
       343794.88,
       365065.62,
       380895.03,
       410575.16,
       457074.0,
       519402.28,
-      462515.38,
+      462515.41,
       442728.62,
       420865.47,
       387573.88,
@@ -12359,16 +12369,16 @@
       }
     ],
     "history_prices": [
-      140256.11,
-      140159.78,
+      140256.12,
+      140159.8,
       137751.55,
-      136402.94,
+      136402.92,
       141315.73,
-      139485.47,
+      139485.48,
       135246.97,
       136980.91,
       137077.23,
-      139581.8,
+      139581.81,
       148251.48,
       157306.48,
       167421.11,
@@ -12415,6 +12425,109 @@
     ]
   },
   {
+    "ticker": "015760.KS",
+    "name_en": "KEPCO",
+    "name_ko": "한국전력",
+    "market_cap": 16402182307840,
+    "market_cap_usd": 12617063313.723078,
+    "currency": "KRW",
+    "current_price": 25550.0,
+    "per": null,
+    "pbr": null,
+    "forward_eps": null,
+    "forward_pe": 3.18,
+    "mdd": -63.24,
+    "rsi": 33.28,
+    "country": "KR",
+    "financials": [
+      {
+        "date": "2025-06",
+        "revenue": 0.0,
+        "operating_income": 0.0
+      },
+      {
+        "date": "2025-09",
+        "revenue": 27572384000000.0,
+        "operating_income": 5680294000000.0
+      },
+      {
+        "date": "2025-12",
+        "revenue": 22821080000000.0,
+        "operating_income": 1983498000000.0
+      },
+      {
+        "date": "2026-03",
+        "revenue": 24398487000000.0,
+        "operating_income": 3825791000000.0
+      },
+      {
+        "date": "2026-06",
+        "revenue": 21918852000000.0,
+        "operating_income": 1127222000000.0
+      },
+      {
+        "date": "2026-09",
+        "revenue": 26851798000000.0,
+        "operating_income": 1650370000000.0
+      }
+    ],
+    "history_prices": [
+      46619.12,
+      50830.82,
+      50540.36,
+      48168.26,
+      47732.56,
+      46958.0,
+      46500.0,
+      49400.0,
+      54700.0,
+      61200.0,
+      58300.0,
+      60700.0,
+      59800.0,
+      63000.0,
+      58500.0,
+      48800.0,
+      48300.0,
+      49150.0,
+      43900.0,
+      40300.0,
+      43400.0,
+      45900.0,
+      46200.0,
+      43550.0,
+      44050.0,
+      38750.0,
+      39700.0,
+      38900.0,
+      38100.0,
+      37650.0,
+      37900.0,
+      37100.0,
+      38250.0,
+      36200.0,
+      34050.0,
+      35400.0,
+      34800.0,
+      35600.0,
+      33250.0,
+      31750.0,
+      32550.0,
+      32150.0,
+      33100.0,
+      30750.0,
+      30250.0,
+      30050.0,
+      29100.0,
+      28600.0,
+      28650.0,
+      28600.0,
+      30400.0,
+      27650.0,
+      25550.0
+    ]
+  },
+  {
     "ticker": "018260.KS",
     "name_en": "Samsung SDS",
     "name_ko": "삼성SDS",
@@ -12425,7 +12538,7 @@
     "per": null,
     "pbr": null,
     "forward_eps": null,
-    "forward_pe": 18.36,
+    "forward_pe": 18.38,
     "mdd": -46.07,
     "rsi": 44.62,
     "country": "KR",
@@ -12750,11 +12863,6 @@
     "country": "KR",
     "financials": [
       {
-        "date": "2025-03",
-        "revenue": 0.0,
-        "operating_income": 0.0
-      },
-      {
         "date": "2025-06",
         "revenue": 0.0,
         "operating_income": 0.0
@@ -12781,8 +12889,8 @@
       },
       {
         "date": "2026-09",
-        "revenue": 9053643874000.0,
-        "operating_income": 732992445000.0
+        "revenue": 9053643874200.0,
+        "operating_income": 566527900060.0
       }
     ],
     "history_prices": [
@@ -12907,7 +13015,7 @@
       20944.28,
       21748.01,
       24726.54,
-      26995.89,
+      26995.9,
       24348.31,
       22362.62,
       21842.56,
@@ -12997,14 +13105,14 @@
       },
       {
         "date": "2026-09",
-        "revenue": 6086097276000.0,
-        "operating_income": 343968508000.0
+        "revenue": 6086097275930.0,
+        "operating_income": 141654872620.0
       }
     ],
     "history_prices": [
       1095145.0,
-      1302911.75,
-      1319416.62,
+      1302911.88,
+      1319416.75,
       1473785.38,
       1271843.88,
       1250484.62,
@@ -13420,13 +13528,13 @@
       {
         "date": "2026-09",
         "revenue": 2040429000000.0,
-        "operating_income": 448025000000.0
+        "operating_income": 327877000000.0
       }
     ],
     "history_prices": [
       76778.76,
       76294.66,
-      82878.45,
+      82878.46,
       81329.33,
       79102.45,
       78908.81,
@@ -13440,7 +13548,7 @@
       95368.32,
       104275.82,
       91011.39,
-      87138.56,
+      87138.57,
       92463.7,
       86170.36,
       85773.72,
@@ -13724,7 +13832,7 @@
       {
         "date": "2025-09",
         "revenue": 49012996870.0,
-        "operating_income": 26670839480.0
+        "operating_income": 26670839490.0
       },
       {
         "date": "2025-12",
@@ -13743,8 +13851,8 @@
       },
       {
         "date": "2026-09",
-        "revenue": 119791545000.0,
-        "operating_income": 105675194000.0
+        "revenue": 119791545280.0,
+        "operating_income": 78895311680.0
       }
     ],
     "history_prices": [
@@ -13820,11 +13928,6 @@
     "country": "KR",
     "financials": [
       {
-        "date": "2025-03",
-        "revenue": 0.0,
-        "operating_income": 0.0
-      },
-      {
         "date": "2025-06",
         "revenue": 0.0,
         "operating_income": 0.0
@@ -13851,8 +13954,8 @@
       },
       {
         "date": "2026-09",
-        "revenue": 2910470113000.0,
-        "operating_income": 625058748000.0
+        "revenue": 2910470112550.0,
+        "operating_income": 342524524260.0
       }
     ],
     "history_prices": [
@@ -14036,11 +14139,6 @@
     "country": "KR",
     "financials": [
       {
-        "date": "2025-03",
-        "revenue": 0.0,
-        "operating_income": 0.0
-      },
-      {
         "date": "2025-06",
         "revenue": 0.0,
         "operating_income": 0.0
@@ -14068,29 +14166,29 @@
       {
         "date": "2026-09",
         "revenue": 11968692000000.0,
-        "operating_income": 1667875000000.0
+        "operating_income": 1406653000000.0
       }
     ],
     "history_prices": [
-      88915.06,
+      88915.05,
       76028.82,
       79795.56,
       80885.94,
-      80786.82,
+      80786.81,
       81282.44,
       79597.31,
       83264.94,
-      88915.06,
+      88915.05,
       98629.3,
       104973.3,
       97142.42,
       105270.67,
       118949.91,
-      109037.41,
-      128565.03,
+      109037.42,
+      128565.02,
       107054.92,
-      110821.66,
-      108740.04,
+      110821.67,
+      108740.05,
       110768.39,
       120015.66,
       116634.95,
@@ -14284,10 +14382,10 @@
     ],
     "history_prices": [
       47751.06,
-      48229.53,
+      48229.52,
       50813.25,
       50334.78,
-      51483.11,
+      51483.1,
       51100.33,
       49090.77,
       49760.62,
@@ -14571,11 +14669,6 @@
     "country": "KR",
     "financials": [
       {
-        "date": "2025-03",
-        "revenue": 0.0,
-        "operating_income": 0.0
-      },
-      {
         "date": "2025-06",
         "revenue": 0.0,
         "operating_income": 0.0
@@ -14602,8 +14695,8 @@
       },
       {
         "date": "2026-09",
-        "revenue": 1129492646000.0,
-        "operating_income": 821362535000.0
+        "revenue": 1129492646400.0,
+        "operating_income": 115242673440.0
       }
     ],
     "history_prices": [
@@ -15031,13 +15124,13 @@
     "history_prices": [
       50704.09,
       51472.34,
-      52720.73,
+      52720.74,
       51760.43,
       48303.33,
       48111.27,
-      46382.72,
-      46766.85,
-      55025.46,
+      46382.73,
+      46766.84,
+      55025.47,
       60787.3,
       59923.02,
       61459.51,
@@ -15046,7 +15139,7 @@
       69334.01,
       70390.34,
       70774.47,
-      73943.48,
+      73943.47,
       75095.84,
       82780.52,
       73150.35,
@@ -15242,10 +15335,10 @@
     "history_prices": [
       84546.47,
       82437.6,
-      84258.89,
+      84258.9,
       82629.31,
       85025.76,
-      83875.46,
+      83875.47,
       81958.31,
       76302.71,
       72947.69,
@@ -15256,9 +15349,9 @@
       83683.75,
       78507.44,
       72084.97,
-      70551.24,
+      70551.25,
       71318.11,
-      70455.38,
+      70455.39,
       70940.38,
       74388.88,
       82074.09,
@@ -15312,11 +15405,6 @@
     "country": "KR",
     "financials": [
       {
-        "date": "2025-03",
-        "revenue": 0.0,
-        "operating_income": 0.0
-      },
-      {
         "date": "2025-06",
         "revenue": 0.0,
         "operating_income": 0.0
@@ -15344,7 +15432,7 @@
       {
         "date": "2026-09",
         "revenue": 7270592000000.0,
-        "operating_income": 2049347000000.0
+        "operating_income": 1274766000000.0
       }
     ],
     "history_prices": [
@@ -15673,11 +15761,11 @@
     ],
     "history_prices": [
       14939.44,
-      14422.31,
+      14422.3,
       14652.14,
       14451.04,
       14489.34,
-      14422.31,
+      14422.3,
       13818.98,
       13742.37,
       14297.81,
@@ -15756,7 +15844,7 @@
       {
         "date": "2025-09",
         "revenue": 570013578020.0,
-        "operating_income": 22013818200.0
+        "operating_income": 22013819200.0
       },
       {
         "date": "2025-12",
@@ -15775,8 +15863,8 @@
       },
       {
         "date": "2026-09",
-        "revenue": 604309083000.0,
-        "operating_income": 188737572000.0
+        "revenue": 604309082550.0,
+        "operating_income": 33205811830.0
       }
     ],
     "history_prices": [
@@ -15991,8 +16079,8 @@
       },
       {
         "date": "2026-09",
-        "revenue": 922740408000.0,
-        "operating_income": 338245029000.0
+        "revenue": 922740408100.0,
+        "operating_income": 150856094540.0
       }
     ],
     "history_prices": [
@@ -16427,7 +16515,7 @@
       274067.28,
       270102.5,
       260686.08,
-      261677.27,
+      261677.3,
       257712.47,
       267624.5,
       259694.88,
@@ -16441,7 +16529,7 @@
       245818.05,
       247304.86,
       253252.06,
-      245322.44,
+      245322.45,
       245820.06,
       247810.52,
       253781.84,
@@ -16495,11 +16583,6 @@
     "country": "KR",
     "financials": [
       {
-        "date": "2025-03",
-        "revenue": 0.0,
-        "operating_income": 0.0
-      },
-      {
         "date": "2025-06",
         "revenue": 0.0,
         "operating_income": 0.0
@@ -16527,7 +16610,7 @@
       {
         "date": "2026-09",
         "revenue": 11641954820000.0,
-        "operating_income": 3377892200000.0
+        "operating_income": 618082501000.0
       }
     ],
     "history_prices": [
@@ -16597,7 +16680,7 @@
     "per": null,
     "pbr": null,
     "forward_eps": null,
-    "forward_pe": 10.92,
+    "forward_pe": 11.37,
     "mdd": -45.02,
     "rsi": 44.36,
     "country": "KR",
@@ -17469,7 +17552,7 @@
       {
         "date": "2025-09",
         "revenue": 2462231428830.0,
-        "operating_income": 97630926700.0
+        "operating_income": 97630926890.0
       },
       {
         "date": "2025-12",
@@ -17488,8 +17571,8 @@
       },
       {
         "date": "2026-09",
-        "revenue": 2515262660000.0,
-        "operating_income": 483297530000.0
+        "revenue": 2515262659720.0,
+        "operating_income": 100825883760.0
       }
     ],
     "history_prices": [
@@ -17596,8 +17679,8 @@
       },
       {
         "date": "2026-09",
-        "revenue": 1921452147000.0,
-        "operating_income": 60367246000.0
+        "revenue": 1921452147130.0,
+        "operating_income": -20827382810.0
       }
     ],
     "history_prices": [
@@ -17704,8 +17787,8 @@
       },
       {
         "date": "2026-09",
-        "revenue": 289691727000.0,
-        "operating_income": -460563000.0
+        "revenue": 289691727140.0,
+        "operating_income": -21251804790.0
       }
     ],
     "history_prices": [
@@ -18619,7 +18702,7 @@
     "per": null,
     "pbr": null,
     "forward_eps": null,
-    "forward_pe": 9.0,
+    "forward_pe": 9.64,
     "mdd": -66.64,
     "rsi": 43.4,
     "country": "KR",
@@ -18928,122 +19011,19 @@
     ]
   },
   {
-    "ticker": "015760.KS",
-    "name_en": "KEPCO",
-    "name_ko": "한국전력",
-    "market_cap": 0,
-    "market_cap_usd": 0.0,
-    "currency": "KRW",
-    "current_price": 25550.0,
-    "per": null,
-    "pbr": null,
-    "forward_eps": null,
-    "forward_pe": 3.18,
-    "mdd": -63.24,
-    "rsi": 33.28,
-    "country": "KR",
-    "financials": [
-      {
-        "date": "2025-06",
-        "revenue": 0.0,
-        "operating_income": 0.0
-      },
-      {
-        "date": "2025-09",
-        "revenue": 27572384000000.0,
-        "operating_income": 5680294000000.0
-      },
-      {
-        "date": "2025-12",
-        "revenue": 22821080000000.0,
-        "operating_income": 1983498000000.0
-      },
-      {
-        "date": "2026-03",
-        "revenue": 24398487000000.0,
-        "operating_income": 3825791000000.0
-      },
-      {
-        "date": "2026-06",
-        "revenue": 21918852000000.0,
-        "operating_income": 1127222000000.0
-      },
-      {
-        "date": "2026-09",
-        "revenue": 26851798000000.0,
-        "operating_income": 1650370000000.0
-      }
-    ],
-    "history_prices": [
-      46619.12,
-      50830.82,
-      50540.36,
-      48168.26,
-      47732.56,
-      46958.0,
-      46500.0,
-      49400.0,
-      54700.0,
-      61200.0,
-      58300.0,
-      60700.0,
-      59800.0,
-      63000.0,
-      58500.0,
-      48800.0,
-      48300.0,
-      49150.0,
-      43900.0,
-      40300.0,
-      43400.0,
-      45900.0,
-      46200.0,
-      43550.0,
-      44050.0,
-      38750.0,
-      39700.0,
-      38900.0,
-      38100.0,
-      37650.0,
-      37900.0,
-      37100.0,
-      38250.0,
-      36200.0,
-      34050.0,
-      35400.0,
-      34800.0,
-      35600.0,
-      33250.0,
-      31750.0,
-      32550.0,
-      32150.0,
-      33100.0,
-      30750.0,
-      30250.0,
-      30050.0,
-      29100.0,
-      28600.0,
-      28650.0,
-      28600.0,
-      30400.0,
-      27650.0,
-      25550.0
-    ]
-  },
-  {
     "ticker": "SPY",
     "name_en": "SPDR S&P 500 ETF",
     "name_ko": "S&P 500 ETF",
     "market_cap": 0,
     "market_cap_usd": 0,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 689.81,
     "per": 21.95,
     "pbr": 1.61,
     "forward_eps": null,
     "forward_pe": null,
-    "mdd": NaN,
-    "rsi": 31.62,
+    "mdd": -11.75,
+    "rsi": 24.94,
     "country": "US_ETF",
     "financials": [],
     "history_prices": [
@@ -19099,7 +19079,7 @@
       755.72,
       735.29,
       754.37,
-      715.87
+      689.81
     ]
   },
   {
@@ -19109,13 +19089,13 @@
     "market_cap": 0,
     "market_cap_usd": 0,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 693.71,
     "per": 21.97,
     "pbr": 1.61,
     "forward_eps": null,
     "forward_pe": null,
-    "mdd": NaN,
-    "rsi": 31.58,
+    "mdd": -11.63,
+    "rsi": 25.07,
     "country": "US_ETF",
     "financials": [],
     "history_prices": [
@@ -19171,7 +19151,7 @@
       759.18,
       738.68,
       757.65,
-      719.05
+      693.71
     ]
   },
   {
@@ -19181,13 +19161,13 @@
     "market_cap": 0,
     "market_cap_usd": 0,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 635.54,
     "per": 21.47,
-    "pbr": null,
+    "pbr": 1.63,
     "forward_eps": null,
     "forward_pe": null,
-    "mdd": NaN,
-    "rsi": 31.51,
+    "mdd": -11.54,
+    "rsi": 25.15,
     "country": "US_ETF",
     "financials": [],
     "history_prices": [
@@ -19243,7 +19223,7 @@
       694.81,
       675.99,
       693.38,
-      658.01
+      635.54
     ]
   },
   {
@@ -19253,13 +19233,13 @@
     "market_cap": 0,
     "market_cap_usd": 0,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 608.45,
     "per": 25.06,
     "pbr": 1.7,
     "forward_eps": null,
     "forward_pe": null,
-    "mdd": NaN,
-    "rsi": 33.92,
+    "mdd": -20.24,
+    "rsi": 26.64,
     "country": "US_ETF",
     "financials": [],
     "history_prices": [
@@ -19315,7 +19295,7 @@
       690.49,
       656.1,
       679.89,
-      645.04
+      608.45
     ]
   },
   {
@@ -19325,13 +19305,13 @@
     "market_cap": 0,
     "market_cap_usd": 0,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 33.94,
     "per": 18.26,
     "pbr": null,
     "forward_eps": null,
     "forward_pe": null,
-    "mdd": NaN,
-    "rsi": 39.58,
+    "mdd": -6.71,
+    "rsi": 37.27,
     "country": "US_ETF",
     "financials": [],
     "history_prices": [
@@ -19387,7 +19367,7 @@
       35.78,
       35.17,
       36.12,
-      34.2
+      33.94
     ]
   },
   {
@@ -19397,13 +19377,13 @@
     "market_cap": 0,
     "market_cap_usd": 0,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 340.02,
     "per": 20.87,
-    "pbr": null,
+    "pbr": 2.44,
     "forward_eps": null,
     "forward_pe": null,
-    "mdd": NaN,
-    "rsi": 32.05,
+    "mdd": -11.49,
+    "rsi": 25.47,
     "country": "US_ETF",
     "financials": [],
     "history_prices": [
@@ -19459,7 +19439,7 @@
       371.57,
       361.93,
       371.11,
-      352.41
+      340.02
     ]
   },
   {
@@ -19469,13 +19449,13 @@
     "market_cap": 0,
     "market_cap_usd": 0,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 123.4,
     "per": 26.12,
     "pbr": 0.29,
     "forward_eps": null,
     "forward_pe": null,
-    "mdd": NaN,
-    "rsi": 36.03,
+    "mdd": -43.53,
+    "rsi": 29.14,
     "country": "US_ETF",
     "financials": [],
     "history_prices": [
@@ -19531,7 +19511,7 @@
       157.17,
       136.53,
       149.3,
-      137.95
+      123.4
     ]
   },
   {
@@ -19541,13 +19521,13 @@
     "market_cap": 0,
     "market_cap_usd": 0,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 400.06,
     "per": 21.6,
     "pbr": null,
     "forward_eps": null,
     "forward_pe": null,
-    "mdd": NaN,
-    "rsi": 33.03,
+    "mdd": -40.45,
+    "rsi": 26.13,
     "country": "US_ETF",
     "financials": [],
     "history_prices": [
@@ -19603,7 +19583,7 @@
       522.49,
       463.96,
       486.75,
-      447.48
+      400.06
     ]
   },
   {
@@ -19613,13 +19593,13 @@
     "market_cap": 0,
     "market_cap_usd": 0,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 149.01,
     "per": 26.28,
-    "pbr": null,
+    "pbr": 1.0,
     "forward_eps": null,
     "forward_pe": null,
-    "mdd": NaN,
-    "rsi": 32.48,
+    "mdd": -26.69,
+    "rsi": 25.44,
     "country": "US_ETF",
     "financials": [],
     "history_prices": [
@@ -19675,7 +19655,7 @@
       179.51,
       164.74,
       170.28,
-      160.69
+      149.01
     ]
   },
   {
@@ -19685,13 +19665,13 @@
     "market_cap": 0,
     "market_cap_usd": 0,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 177.24,
     "per": 28.89,
-    "pbr": null,
+    "pbr": 1.39,
     "forward_eps": null,
     "forward_pe": null,
-    "mdd": NaN,
-    "rsi": 41.06,
+    "mdd": -7.84,
+    "rsi": 40.71,
     "country": "US_ETF",
     "financials": [],
     "history_prices": [
@@ -19747,7 +19727,7 @@
       184.87,
       184.8,
       188.85,
-      177.46
+      177.24
     ]
   },
   {
@@ -19757,13 +19737,13 @@
     "market_cap": 0,
     "market_cap_usd": 0,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 54.57,
     "per": 14.74,
     "pbr": 1.6,
     "forward_eps": null,
     "forward_pe": null,
-    "mdd": NaN,
-    "rsi": 41.99,
+    "mdd": -9.11,
+    "rsi": 37.34,
     "country": "US_ETF",
     "financials": [],
     "history_prices": [
@@ -19819,7 +19799,7 @@
       56.51,
       57.16,
       58.68,
-      55.58
+      54.57
     ]
   },
   {
@@ -19829,13 +19809,13 @@
     "market_cap": 0,
     "market_cap_usd": 0,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 60.51,
     "per": 15.11,
     "pbr": 1.16,
     "forward_eps": null,
     "forward_pe": null,
-    "mdd": NaN,
-    "rsi": 35.78,
+    "mdd": -13.74,
+    "rsi": 34.69,
     "country": "US_ETF",
     "financials": [],
     "history_prices": [
@@ -19891,7 +19871,7 @@
       70.02,
       61.62,
       64.96,
-      60.89
+      60.51
     ]
   },
   {
@@ -19901,13 +19881,13 @@
     "market_cap": 0,
     "market_cap_usd": 0,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 64.22,
     "per": 41.45,
     "pbr": null,
     "forward_eps": null,
     "forward_pe": null,
-    "mdd": NaN,
-    "rsi": 31.18,
+    "mdd": -32.27,
+    "rsi": 26.23,
     "country": "US_ETF",
     "financials": [],
     "history_prices": [
@@ -19963,7 +19943,7 @@
       80.75,
       75.46,
       74.99,
-      68.93
+      64.22
     ]
   },
   {
@@ -19973,13 +19953,13 @@
     "market_cap": 0,
     "market_cap_usd": 0,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 256.61,
     "per": 14.95,
     "pbr": 1.17,
     "forward_eps": null,
     "forward_pe": null,
-    "mdd": NaN,
-    "rsi": 35.53,
+    "mdd": -15.7,
+    "rsi": 30.18,
     "country": "US_ETF",
     "financials": [],
     "history_prices": [
@@ -20035,7 +20015,7 @@
       279.33,
       273.67,
       277.54,
-      264.22
+      256.61
     ]
   },
   {
@@ -20045,13 +20025,13 @@
     "market_cap": 0,
     "market_cap_usd": 0,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 322.87,
     "per": null,
     "pbr": 1.9,
     "forward_eps": null,
     "forward_pe": null,
-    "mdd": NaN,
-    "rsi": 28.02,
+    "mdd": -36.65,
+    "rsi": 23.69,
     "country": "US_ETF",
     "financials": [],
     "history_prices": [
@@ -20107,7 +20087,7 @@
       355.78,
       372.52,
       355.45,
-      335.18
+      322.87
     ]
   },
   {
@@ -20117,13 +20097,13 @@
     "market_cap": 0,
     "market_cap_usd": 0,
     "currency": "USD",
-    "current_price": NaN,
+    "current_price": 81.45,
     "per": null,
     "pbr": 0.55,
     "forward_eps": null,
     "forward_pe": -4072.5,
-    "mdd": NaN,
-    "rsi": 50.23,
+    "mdd": -7.19,
+    "rsi": 58.91,
     "country": "US_ETF",
     "financials": [],
     "history_prices": [
@@ -20179,7 +20159,7 @@
       81.5,
       81.92,
       79.38,
-      80.35
+      81.45
     ]
   },
   {
@@ -20200,7 +20180,7 @@
     "financials": [],
     "history_prices": [
       24529.97,
-      26684.87,
+      26684.86,
       27948.94,
       28456.56,
       26724.68,
@@ -20209,7 +20189,7 @@
       28302.28,
       30566.66,
       30855.31,
-      30702.7,
+      30702.71,
       29317.54,
       30608.03,
       30921.94,
@@ -20218,14 +20198,14 @@
       29905.49,
       30767.48,
       30284.17,
-      30647.89,
+      30647.9,
       33562.71,
       36128.74,
       39795.93,
       39661.91,
       43348.26,
-      46141.7,
-      47658.14,
+      46141.71,
+      47658.15,
       50705.99,
       53654.07,
       52022.9,
@@ -20233,7 +20213,7 @@
       54347.45,
       51524.07,
       50486.51,
-      47862.66,
+      47862.67,
       46635.55,
       43600.15,
       44708.88,
@@ -20276,7 +20256,7 @@
       45185.77,
       46150.02,
       44052.52,
-      45498.91,
+      45498.9,
       47308.12,
       50588.57,
       53660.27,
@@ -20345,7 +20325,7 @@
     "history_prices": [
       32518.39,
       34855.34,
-      36292.32,
+      36292.31,
       36938.71,
       35059.2,
       35839.84,
@@ -20362,23 +20342,23 @@
       39582.57,
       40224.93,
       39557.67,
-      39980.94,
+      39980.93,
       43391.94,
       45861.8,
       49681.13,
-      50100.99,
+      50100.98,
       54668.31,
-      57540.34,
+      57540.35,
       58906.55,
       61898.25,
       64411.28,
-      62795.77,
+      62795.76,
       67831.79,
       65079.43,
       62970.28,
       61793.54,
       59440.07,
-      57315.96,
+      57315.97,
       53953.62,
       55356.25,
       56554.21,
@@ -20420,10 +20400,10 @@
       16064.56,
       16248.81,
       15133.35,
-      15427.16,
+      15427.15,
       15511.81,
       15979.9,
-      17150.14,
+      17150.13,
       16970.87,
       16761.27,
       15859.16,
@@ -20434,14 +20414,14 @@
       16771.24,
       16970.6,
       16865.93,
-      16940.69,
+      16940.7,
       18256.48,
       19203.44,
       20474.37,
       20166.85,
       21803.34,
       22791.23,
-      23484.75,
+      23484.74,
       24482.61,
       25700.01,
       24926.66,
@@ -20503,9 +20483,9 @@
       19648.71,
       20107.63,
       19992.9,
-      20332.1,
+      20332.11,
       20875.82,
-      20102.65,
+      20102.64,
       20257.28,
       21225.0,
       22791.31,
@@ -20713,7 +20693,7 @@
       22505.25,
       22901.97,
       22657.08,
-      22205.38,
+      22205.37,
       22259.53,
       21983.81,
       22229.99,
@@ -20722,7 +20702,7 @@
       22279.23,
       22161.06,
       21978.89,
-      22111.82,
+      22111.83,
       22594.34,
       23342.72,
       23603.67,
@@ -20931,7 +20911,7 @@
       25269.57,
       24779.3,
       24823.98,
-      24516.17,
+      24516.16,
       24799.16,
       24655.18,
       25131.8,
@@ -20997,7 +20977,7 @@
       11633.36,
       11565.27,
       11492.32,
-      11372.31,
+      11372.3,
       11796.75,
       12196.81,
       12201.69,
@@ -21010,7 +20990,7 @@
       13097.91,
       13088.1,
       13294.06,
-      13198.69,
+      13198.7,
       13120.04,
       13105.3,
       13321.59,
@@ -21023,7 +21003,7 @@
       14182.32,
       13925.53,
       14187.25,
-      14283.33,
+      14283.34,
       14001.04,
       13837.6,
       13887.13,
@@ -21068,14 +21048,14 @@
       12762.29,
       12872.3,
       12794.38,
-      12609.31,
+      12609.3,
       12565.47,
-      13037.89,
+      13037.9,
       13490.69,
       13476.04,
       13217.16,
       14379.65,
-      14266.11,
+      14266.1,
       14447.12,
       14187.83,
       14554.75,
@@ -21102,7 +21082,7 @@
       15284.76,
       15284.76,
       15627.18,
-      15448.36,
+      15448.35,
       15304.3,
       15135.41,
       14663.52,
@@ -21140,7 +21120,7 @@
       57806.85,
       58589.82,
       56669.33,
-      58717.85,
+      58717.86,
       62238.76,
       66749.46,
       70329.45,
@@ -21153,12 +21133,12 @@
       82954.9,
       81311.89,
       86181.72,
-      80862.89,
+      80862.9,
       80053.73,
       88318.13,
-      93587.62,
+      93587.61,
       97574.26,
-      100029.57,
+      100029.58,
       115725.25,
       116757.41,
       123382.05,
@@ -21166,7 +21146,7 @@
       130845.31,
       129321.89,
       146630.31,
-      137638.66,
+      137638.67,
       130885.01,
       120791.74,
       108713.55,
@@ -21208,7 +21188,7 @@
     "financials": [],
     "history_prices": [
       19682.85,
-      19991.96,
+      19991.97,
       20750.36,
       20764.77,
       20395.17,
@@ -21225,10 +21205,10 @@
       25304.2,
       24964.74,
       25992.81,
-      25226.61,
+      25226.6,
       24463.7,
       25811.44,
-      26862.39,
+      26862.38,
       26658.04,
       26516.59,
       27077.87,
@@ -21246,7 +21226,7 @@
       24296.55,
       24809.93,
       25249.26,
-      24385.41,
+      24385.4,
       25282.98,
       25228.46,
       25297.85,
@@ -21281,21 +21261,21 @@
     "history_prices": [
       19654.76,
       20101.88,
-      20952.47,
+      20952.48,
       20467.11,
       20399.83,
       20635.3,
       20458.83,
-      20261.13,
+      20261.14,
       20651.7,
       21558.19,
       22198.02,
       24002.3,
-      27726.96,
+      27726.97,
       28887.9,
       26521.14,
       24473.59,
-      24187.31,
+      24187.32,
       25177.13,
       24604.59,
       23861.62,
@@ -21305,8 +21285,8 @@
       25674.31,
       25703.62,
       24658.28,
-      25093.02,
-      23802.95,
+      25093.03,
+      23802.94,
       25837.17,
       25356.8,
       25469.54,
@@ -21315,7 +21295,7 @@
       26331.7,
       26764.65,
       25888.9,
-      25469.83,
+      25469.84,
       26571.42,
       26047.8,
       25237.66,
